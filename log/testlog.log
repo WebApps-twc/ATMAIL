@@ -1,0 +1,1601 @@
+2017-06-29 10:16:14,703 - ATMAIL -INFO - URL Entered
+2017-06-29 10:16:16,740 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 10:16:45,180 - ATMAIL -INFO - Username entered
+2017-06-29 10:16:45,864 - ATMAIL -INFO - Password entered
+2017-06-29 10:16:54,712 - ATMAIL -INFO - Submit Login
+2017-06-29 10:19:42,478 - ATMAIL -INFO - URL Entered
+2017-06-29 10:19:44,593 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 10:20:13,372 - ATMAIL -INFO - Username entered
+2017-06-29 10:20:13,956 - ATMAIL -INFO - Password entered
+2017-06-29 10:21:28,028 - ATMAIL -INFO - Submit Login
+2017-06-29 10:22:16,355 - ATMAIL -INFO - URL Entered
+2017-06-29 10:22:18,385 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 10:22:48,003 - ATMAIL -INFO - Username entered
+2017-06-29 10:22:48,507 - ATMAIL -INFO - Password entered
+2017-06-29 10:23:04,327 - ATMAIL -INFO - Submit Login
+2017-06-29 10:25:29,791 - ATMAIL -INFO - URL Entered
+2017-06-29 10:25:31,862 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 10:26:00,436 - ATMAIL -INFO - Username entered
+2017-06-29 10:26:01,078 - ATMAIL -INFO - Password entered
+2017-06-29 10:27:58,527 - ATMAIL -INFO - URL Entered
+2017-06-29 10:28:00,426 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 10:28:29,313 - ATMAIL -INFO - Username entered
+2017-06-29 10:28:29,912 - ATMAIL -INFO - Password entered
+2017-06-29 10:28:38,472 - ATMAIL -INFO - Submit Login
+2017-06-29 10:29:33,859 - ATMAIL -INFO - URL Entered
+2017-06-29 10:32:11,932 - ATMAIL -INFO - URL Entered
+2017-06-29 10:32:14,054 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 10:32:43,597 - ATMAIL -INFO - Username entered
+2017-06-29 10:32:44,259 - ATMAIL -INFO - Password entered
+2017-06-29 10:33:50,342 - ATMAIL -INFO - Submit Login
+2017-06-29 11:16:21,494 - ATMAIL -INFO - URL Entered
+2017-06-29 11:16:23,640 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 11:16:52,491 - ATMAIL -INFO - Username entered
+2017-06-29 11:16:53,049 - ATMAIL -INFO - Password entered
+2017-06-29 11:17:01,601 - ATMAIL -INFO - Submit Login
+2017-06-29 11:17:12,929 - ATMAIL -INFO - Atmail Link Available
+2017-06-29 11:19:36,643 - ATMAIL -INFO - URL Entered
+2017-06-29 11:19:38,607 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 11:20:07,293 - ATMAIL -INFO - Username entered
+2017-06-29 11:20:07,990 - ATMAIL -INFO - Password entered
+2017-06-29 11:20:16,478 - ATMAIL -INFO - Submit Login
+2017-06-29 11:20:26,204 - ATMAIL -INFO - Atmail Link Available
+2017-06-29 11:20:36,619 - ATMAIL -INFO - Inbox Loaded
+2017-06-29 11:44:27,332 - ATMAIL -INFO - URL Entered
+2017-06-29 11:44:29,523 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 11:44:58,348 - ATMAIL -INFO - Username entered
+2017-06-29 11:44:58,851 - ATMAIL -INFO - Password entered
+2017-06-29 11:45:07,319 - ATMAIL -INFO - Submit Login
+2017-06-29 11:45:16,824 - ATMAIL -INFO - Atmail Link Available
+2017-06-29 11:45:28,705 - ATMAIL -INFO - Inbox Loaded
+2017-06-29 11:45:35,698 - ATMAIL -INFO - Homepage Loaded: Test Scenario Passed
+2017-06-29 11:49:26,676 - ATMAIL -INFO - URL Entered
+2017-06-29 11:49:28,763 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 11:49:57,389 - ATMAIL -INFO - Username entered
+2017-06-29 11:49:57,952 - ATMAIL -INFO - Password entered
+2017-06-29 11:50:06,478 - ATMAIL -INFO - Submit Login
+2017-06-29 11:50:37,877 - ATMAIL -INFO - URL Entered
+2017-06-29 11:50:39,868 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 11:51:08,453 - ATMAIL -INFO - Username entered
+2017-06-29 11:51:08,991 - ATMAIL -INFO - Password entered
+2017-06-29 11:51:17,505 - ATMAIL -INFO - Submit Login
+2017-06-29 11:51:27,713 - ATMAIL -INFO - Atmail Link Available
+2017-06-29 11:51:40,694 - ATMAIL -INFO - Inbox Loaded
+2017-06-29 11:51:47,473 - ATMAIL -INFO - Homepage Loaded: Test Scenario Passed
+2017-06-29 11:52:07,121 - ATMAIL -INFO - Logging out
+2017-06-29 11:52:07,232 - ATMAIL -INFO - Logout Successful: Test Scenario Passed
+2017-06-29 12:29:36,827 - ATMAIL -INFO - URL Entered
+2017-06-29 12:29:38,885 - ATMAIL -INFO - Clicked on SignIn
+2017-06-29 12:30:08,305 - ATMAIL -INFO - Username entered
+2017-06-29 12:30:08,986 - ATMAIL -INFO - Password entered
+2017-06-29 12:30:17,685 - ATMAIL -INFO - Submit Login
+2017-06-29 12:30:27,276 - ATMAIL -INFO - Atmail Link Available
+2017-06-29 12:30:42,091 - ATMAIL -INFO - Inbox Loaded
+2017-06-29 12:30:42,716 - ATMAIL -INFO - Create new folder
+2017-06-29 12:30:43,375 - ATMAIL -INFO - Folder name entered
+2017-06-29 12:30:43,991 - ATMAIL -INFO - Click on Create
+2017-06-29 12:30:44,335 - ATMAIL -INFO - Error: Folder with Same Name Has Already Been Created.Unable to Create Sent Folder: Test Scenario Passed
+2017-06-30 14:26:35,591 - ATMAIL -INFO - URL Entered
+2017-06-30 14:26:38,043 - ATMAIL -INFO - Clicked on SignIn
+2017-06-30 14:27:09,094 - ATMAIL -INFO - Username entered
+2017-06-30 14:27:09,718 - ATMAIL -INFO - Password entered
+2017-06-30 14:27:18,325 - ATMAIL -INFO - Submit Login
+2017-06-30 14:27:27,712 - ATMAIL -INFO - Atmail Link Available
+2017-06-30 14:27:38,522 - ATMAIL -INFO - Inbox Loaded
+2017-06-30 14:27:39,191 - ATMAIL -INFO - Create new folder
+2017-06-30 14:27:39,903 - ATMAIL -INFO - Folder name entered
+2017-06-30 14:27:40,491 - ATMAIL -INFO - Click on Create
+2017-06-30 14:27:40,868 - ATMAIL -INFO - Error: Folder with Same Name Has Already Been Created.Unable to Create Sent Folder: Test Scenario Passed
+2017-06-30 14:43:21,721 - ATMAIL -INFO - URL Entered
+2017-06-30 14:43:23,736 - ATMAIL -INFO - Clicked on SignIn
+2017-06-30 14:43:51,839 - ATMAIL -INFO - Username entered
+2017-06-30 14:43:52,502 - ATMAIL -INFO - Password entered
+2017-06-30 14:44:01,217 - ATMAIL -INFO - Submit Login
+2017-06-30 14:44:14,325 - ATMAIL -INFO - Atmail Link Available
+2017-06-30 14:44:28,462 - ATMAIL -INFO - Inbox Loaded
+2017-06-30 14:44:28,897 - ATMAIL -INFO - Already created folder name is + 
+!!!Ray
+2017-06-30 14:44:29,573 - ATMAIL -INFO - Create existing folder
+2017-06-30 14:44:30,930 - ATMAIL -INFO - Folder name entered
+2017-06-30 14:44:31,643 - ATMAIL -INFO - Click on Create
+2017-06-30 14:44:32,156 - ATMAIL -INFO - Your time zone is outside of the United States. It will default to Central Time.Test Scenario Passed
+2017-06-30 15:01:37,839 - ATMAIL -INFO - URL Entered
+2017-06-30 15:01:39,906 - ATMAIL -INFO - Clicked on SignIn
+2017-06-30 15:02:08,326 - ATMAIL -INFO - Username entered
+2017-06-30 15:02:08,860 - ATMAIL -INFO - Password entered
+2017-06-30 15:02:17,406 - ATMAIL -INFO - Submit Login
+2017-06-30 15:02:26,556 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(17)email
+2017-06-30 15:02:42,032 - ATMAIL -INFO - Inbox Loaded
+2017-06-30 15:02:43,168 - ATMAIL -INFO - Already created folder name is + 
+!!!Ray
+2017-06-30 15:02:43,394 - ATMAIL -INFO - Creating child folder
+2017-06-30 15:02:44,394 - ATMAIL -INFO - Folder name entered
+2017-06-30 15:02:44,991 - ATMAIL -INFO - Click on Create
+2017-06-30 15:02:45,329 - ATMAIL -INFO - Error: Folder with Same Name Has Already Been Created.Test Scenario Passed
+2017-06-30 15:06:17,666 - ATMAIL -INFO - URL Entered
+2017-06-30 15:06:19,968 - ATMAIL -INFO - Clicked on SignIn
+2017-06-30 15:08:37,804 - ATMAIL -INFO - URL Entered
+2017-06-30 15:08:40,794 - ATMAIL -INFO - Clicked on SignIn
+2017-06-30 15:09:09,263 - ATMAIL -INFO - Username entered
+2017-06-30 15:09:09,809 - ATMAIL -INFO - Password entered
+2017-06-30 15:09:18,539 - ATMAIL -INFO - Submit Login
+2017-06-30 15:09:29,896 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(17)
+2017-06-30 15:09:47,630 - ATMAIL -INFO - Inbox Loaded
+2017-06-30 15:12:17,772 - ATMAIL -INFO - URL Entered
+2017-06-30 15:12:19,811 - ATMAIL -INFO - Clicked on SignIn
+2017-06-30 15:12:50,087 - ATMAIL -INFO - Username entered
+2017-06-30 15:12:50,795 - ATMAIL -INFO - Password entered
+2017-06-30 15:12:59,501 - ATMAIL -INFO - Submit Login
+2017-06-30 15:13:09,360 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(17)
+2017-06-30 15:13:20,397 - ATMAIL -INFO - Inbox Loaded
+2017-06-30 15:17:51,584 - ATMAIL -INFO - URL Entered
+2017-06-30 15:17:53,529 - ATMAIL -INFO - Clicked on SignIn
+2017-06-30 15:18:22,185 - ATMAIL -INFO - Username entered
+2017-06-30 15:18:22,714 - ATMAIL -INFO - Password entered
+2017-06-30 15:19:03,869 - ATMAIL -INFO - URL Entered
+2017-06-30 15:19:05,835 - ATMAIL -INFO - Clicked on SignIn
+2017-06-30 15:19:34,408 - ATMAIL -INFO - Username entered
+2017-06-30 15:19:34,925 - ATMAIL -INFO - Password entered
+2017-06-30 15:20:13,039 - ATMAIL -INFO - URL Entered
+2017-06-30 15:20:15,331 - ATMAIL -INFO - Clicked on SignIn
+2017-06-30 15:20:44,712 - ATMAIL -INFO - Username entered
+2017-06-30 15:20:45,368 - ATMAIL -INFO - Password entered
+2017-06-30 15:20:53,956 - ATMAIL -INFO - Submit Login
+2017-06-30 15:21:11,601 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(17)
+2017-06-30 15:21:23,023 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 09:40:36,447 - ATMAIL -INFO - URL Entered
+2017-07-03 09:40:38,692 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 09:41:08,106 - ATMAIL -INFO - Username entered
+2017-07-03 09:41:08,637 - ATMAIL -INFO - Password entered
+2017-07-03 09:41:17,156 - ATMAIL -INFO - Submit Login
+2017-07-03 09:41:26,416 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(31)
+2017-07-03 09:41:38,090 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 09:41:38,942 - ATMAIL -INFO - Already created folder name is + 
+!!!Ray
+2017-07-03 09:41:39,416 - ATMAIL -INFO - Creating child folder
+2017-07-03 09:41:40,191 - ATMAIL -INFO - Folder name entered
+2017-07-03 09:41:40,700 - ATMAIL -INFO - Click on Create
+2017-07-03 09:41:41,113 - ATMAIL -INFO - Your time zone is outside of the United States. It will default to Central Time.Test Scenario Passed
+2017-07-03 09:46:06,876 - ATMAIL -INFO - URL Entered
+2017-07-03 09:46:08,922 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 09:46:37,085 - ATMAIL -INFO - Username entered
+2017-07-03 09:46:37,735 - ATMAIL -INFO - Password entered
+2017-07-03 09:46:46,580 - ATMAIL -INFO - Submit Login
+2017-07-03 09:46:57,936 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(31)
+2017-07-03 09:47:17,967 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 09:47:18,937 - ATMAIL -INFO - Already created folder name is + 
+!!!Ray
+2017-07-03 09:47:19,586 - ATMAIL -INFO - Creating child folder
+2017-07-03 09:47:20,502 - ATMAIL -INFO - Folder name entered
+2017-07-03 09:47:21,074 - ATMAIL -INFO - Click on Create
+2017-07-03 09:47:21,365 - ATMAIL -INFO - Test Scenario Passed: Folder has been created 
+2017-07-03 12:37:15,972 - ATMAIL -INFO - URL Entered
+2017-07-03 12:37:18,119 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 12:37:47,662 - ATMAIL -INFO - Username entered
+2017-07-03 12:37:48,242 - ATMAIL -INFO - Password entered
+2017-07-03 12:37:57,083 - ATMAIL -INFO - Submit Login
+2017-07-03 12:38:06,367 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(32)
+2017-07-03 12:38:17,078 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 12:40:24,417 - ATMAIL -INFO - URL Entered
+2017-07-03 12:48:22,719 - ATMAIL -INFO - URL Entered
+2017-07-03 12:48:24,886 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 12:48:52,956 - ATMAIL -INFO - Username entered
+2017-07-03 12:48:53,655 - ATMAIL -INFO - Password entered
+2017-07-03 12:49:02,428 - ATMAIL -INFO - Submit Login
+2017-07-03 12:49:11,955 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(32)
+2017-07-03 12:49:24,165 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 13:00:36,953 - ATMAIL -INFO - URL Entered
+2017-07-03 13:00:38,984 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 13:01:08,538 - ATMAIL -INFO - Username entered
+2017-07-03 13:01:09,253 - ATMAIL -INFO - Password entered
+2017-07-03 13:26:21,880 - ATMAIL -INFO - URL Entered
+2017-07-03 13:26:47,827 - ATMAIL -INFO - URL Entered
+2017-07-03 13:26:50,554 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 13:27:19,196 - ATMAIL -INFO - Username entered
+2017-07-03 13:27:19,925 - ATMAIL -INFO - Password entered
+2017-07-03 13:27:28,694 - ATMAIL -INFO - Submit Login
+2017-07-03 13:27:38,635 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(32)
+2017-07-03 13:27:50,661 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 13:27:53,876 - ATMAIL -INFO - Email has been selected
+2017-07-03 13:27:54,754 - ATMAIL -INFO - Reply email clicked from main navigation
+2017-07-03 13:29:42,868 - ATMAIL -INFO - URL Entered
+2017-07-03 13:29:44,964 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 13:30:40,112 - ATMAIL -INFO - Username entered
+2017-07-03 13:30:40,822 - ATMAIL -INFO - Password entered
+2017-07-03 13:30:49,689 - ATMAIL -INFO - Submit Login
+2017-07-03 13:31:00,981 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(31)
+2017-07-03 13:31:12,694 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 13:35:04,077 - ATMAIL -INFO - URL Entered
+2017-07-03 13:35:06,141 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 13:35:34,733 - ATMAIL -INFO - Username entered
+2017-07-03 13:35:35,468 - ATMAIL -INFO - Password entered
+2017-07-03 13:35:44,372 - ATMAIL -INFO - Submit Login
+2017-07-03 13:35:58,547 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(32)
+2017-07-03 13:36:10,507 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 13:36:13,436 - ATMAIL -INFO - Email has been selected
+2017-07-03 13:36:14,181 - ATMAIL -INFO - Reply email clicked from main navigation
+2017-07-03 14:03:39,824 - ATMAIL -INFO - URL Entered
+2017-07-03 14:03:42,208 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 14:04:10,737 - ATMAIL -INFO - Username entered
+2017-07-03 14:04:11,431 - ATMAIL -INFO - Password entered
+2017-07-03 14:04:20,302 - ATMAIL -INFO - Submit Login
+2017-07-03 14:04:29,455 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(31)
+2017-07-03 14:04:40,194 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 14:05:00,142 - ATMAIL -INFO - Email has been selected
+2017-07-03 14:05:17,248 - ATMAIL -INFO - Reply email clicked from main navigation
+2017-07-03 14:05:28,416 - ATMAIL -INFO - Test Scenaio Passed
+2017-07-03 14:15:33,936 - ATMAIL -INFO - Email has been selected
+2017-07-03 14:15:36,817 - ATMAIL -INFO - Reply email clicked from main navigation
+2017-07-03 14:15:44,345 - ATMAIL -INFO - Cc Bcc
+To:
+Google Alerts
+From:
+vomnortel14@charter.net
+Subject:Test Scenaio Passed
+2017-07-03 14:22:11,924 - ATMAIL -INFO - URL Entered
+2017-07-03 14:22:12,553 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 14:22:45,477 - ATMAIL -INFO - Username entered
+2017-07-03 14:22:46,080 - ATMAIL -INFO - Password entered
+2017-07-03 14:22:54,856 - ATMAIL -INFO - Submit Login
+2017-07-03 14:23:10,180 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(31)
+2017-07-03 14:23:22,678 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 14:23:25,849 - ATMAIL -INFO - Email has been selected
+2017-07-03 14:23:26,611 - ATMAIL -INFO - Reply email clicked from main navigation
+2017-07-03 14:23:29,651 - ATMAIL -INFO - Email has been selected
+2017-07-03 14:25:20,259 - ATMAIL -INFO - URL Entered
+2017-07-03 14:25:20,961 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 14:25:49,136 - ATMAIL -INFO - Username entered
+2017-07-03 14:25:50,031 - ATMAIL -INFO - Password entered
+2017-07-03 14:25:58,597 - ATMAIL -INFO - Submit Login
+2017-07-03 14:29:08,689 - ATMAIL -INFO - URL Entered
+2017-07-03 14:29:09,453 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 14:29:38,186 - ATMAIL -INFO - Username entered
+2017-07-03 14:29:38,940 - ATMAIL -INFO - Password entered
+2017-07-03 14:30:16,872 - ATMAIL -INFO - URL Entered
+2017-07-03 14:30:17,506 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 14:30:46,208 - ATMAIL -INFO - Username entered
+2017-07-03 14:30:46,969 - ATMAIL -INFO - Password entered
+2017-07-03 14:30:55,882 - ATMAIL -INFO - Submit Login
+2017-07-03 14:31:12,104 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(32)
+2017-07-03 14:31:21,999 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 14:31:30,831 - ATMAIL -INFO - Email has been selected
+2017-07-03 14:31:34,785 - ATMAIL -INFO - Reply email clicked from main navigation
+2017-07-03 14:31:39,929 - ATMAIL -INFO - Cc Bcc
+To:
+Google Alerts
+Vomnortel14@charter.net
+From:
+vomnortel14@charter.net
+Subject:Test Scenaio Passed
+2017-07-03 14:31:43,194 - ATMAIL -INFO - Closed reply email model
+2017-07-03 14:31:45,463 - ATMAIL -INFO - Delete the email
+2017-07-03 14:32:00,934 - ATMAIL -INFO - Email has been selected
+2017-07-03 14:33:04,321 - ATMAIL -INFO - Email has been selected
+2017-07-03 14:33:07,060 - ATMAIL -INFO - Forward email clicked from main navigation
+2017-07-03 14:33:13,736 - ATMAIL -INFO - Cc Bcc
+To:
+Google Alerts
+Vomnortel14@charter.net
+From:
+vomnortel14@charter.net
+Subject:Test Scenaio Passed
+2017-07-03 14:33:16,456 - ATMAIL -INFO - Closed reply email model
+2017-07-03 14:33:21,414 - ATMAIL -INFO - Delete the email
+2017-07-03 14:52:32,327 - ATMAIL -INFO - URL Entered
+2017-07-03 14:52:32,976 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 14:53:03,977 - ATMAIL -INFO - Username entered
+2017-07-03 14:53:04,868 - ATMAIL -INFO - Password entered
+2017-07-03 14:53:13,629 - ATMAIL -INFO - Submit Login
+2017-07-03 14:53:23,328 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(31)
+2017-07-03 14:53:34,020 - ATMAIL -INFO - Inbox Loaded
+2017-07-03 14:53:48,583 - ATMAIL -INFO - Contact has been selected
+2017-07-03 14:55:49,097 - ATMAIL -INFO - Test Scenario Failed: Error Occured 
+2017-07-03 15:00:31,499 - ATMAIL -INFO - Test Scenario Failed: Error Occured 
+2017-07-03 15:07:30,097 - ATMAIL -INFO - Test Scenario Failed: Error Occured 
+2017-07-03 15:43:22,491 - ATMAIL -INFO - URL Entered
+2017-07-03 15:43:23,130 - ATMAIL -INFO - Clicked on SignIn
+2017-07-03 15:43:51,911 - ATMAIL -INFO - Username entered
+2017-07-03 15:43:52,456 - ATMAIL -INFO - Password entered
+2017-07-03 15:44:01,003 - ATMAIL -INFO - Submit Login
+2017-07-03 15:44:10,979 - ATMAIL -INFO - Atmail Link Available and containsEMAIL(31)
+2017-07-03 15:44:22,170 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 09:26:14,556 - ATMAIL -INFO - URL Entered
+2017-07-04 09:26:15,897 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 09:26:47,003 - ATMAIL -INFO - Username entered
+2017-07-04 09:26:47,559 - ATMAIL -INFO - Password entered
+2017-07-04 09:26:56,093 - ATMAIL -INFO - Submit Login
+2017-07-04 09:27:04,357 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(31)
+2017-07-04 09:27:16,936 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 09:36:33,607 - ATMAIL -INFO - Contact has been selected
+2017-07-04 09:37:31,693 - ATMAIL -INFO - Email has been clicked from main navigation
+2017-07-04 09:37:48,111 - ATMAIL -INFO - Closed reply email model
+2017-07-04 09:40:11,340 - ATMAIL -INFO - Contact has been selected
+2017-07-04 09:40:14,175 - ATMAIL -INFO - Email has been clicked from main navigation
+2017-07-04 09:40:21,733 - ATMAIL -INFO - Closed reply email modelCc Bcc
+To:
+r.rice@wmtlprinting.com
+From:
+"yyy" <vomnortel14@charter.net>
+Subject:Test Scenaio Passed
+2017-07-04 09:50:40,689 - ATMAIL -INFO - URL Entered
+2017-07-04 09:50:42,756 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 09:51:12,730 - ATMAIL -INFO - Username entered
+2017-07-04 09:51:13,466 - ATMAIL -INFO - Password entered
+2017-07-04 09:51:22,288 - ATMAIL -INFO - Submit Login
+2017-07-04 09:51:37,263 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(31)
+2017-07-04 09:51:51,827 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 09:54:37,983 - ATMAIL -INFO - URL Entered
+2017-07-04 09:54:38,786 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 09:55:07,281 - ATMAIL -INFO - Username entered
+2017-07-04 09:55:07,895 - ATMAIL -INFO - Password entered
+2017-07-04 09:55:16,850 - ATMAIL -INFO - Submit Login
+2017-07-04 09:55:28,684 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(31)
+2017-07-04 09:55:38,912 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 09:59:10,274 - ATMAIL -INFO - URL Entered
+2017-07-04 09:59:10,964 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 09:59:40,972 - ATMAIL -INFO - Username entered
+2017-07-04 09:59:41,749 - ATMAIL -INFO - Password entered
+2017-07-04 09:59:50,598 - ATMAIL -INFO - Submit Login
+2017-07-04 10:00:28,583 - ATMAIL -INFO - URL Entered
+2017-07-04 10:00:29,784 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 10:00:59,477 - ATMAIL -INFO - Username entered
+2017-07-04 10:01:00,356 - ATMAIL -INFO - Password entered
+2017-07-04 10:01:09,223 - ATMAIL -INFO - Submit Login
+2017-07-04 10:02:04,404 - ATMAIL -INFO - URL Entered
+2017-07-04 10:02:05,067 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 10:02:34,161 - ATMAIL -INFO - Username entered
+2017-07-04 10:02:34,989 - ATMAIL -INFO - Password entered
+2017-07-04 10:02:43,927 - ATMAIL -INFO - Submit Login
+2017-07-04 10:02:53,573 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(31)
+2017-07-04 10:03:03,851 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 10:07:30,674 - ATMAIL -INFO - Test Scenario Failed: Error Occured 
+2017-07-04 10:22:48,353 - ATMAIL -INFO - URL Entered
+2017-07-04 10:22:49,360 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 10:23:19,792 - ATMAIL -INFO - Username entered
+2017-07-04 10:23:20,632 - ATMAIL -INFO - Password entered
+2017-07-04 10:23:29,310 - ATMAIL -INFO - Submit Login
+2017-07-04 10:23:43,773 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(31)
+2017-07-04 10:23:55,617 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 10:25:22,989 - ATMAIL -INFO - Test Scenario Failed: Error Occured 
+2017-07-04 10:27:00,416 - ATMAIL -INFO - URL Entered
+2017-07-04 10:27:01,068 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 10:27:30,132 - ATMAIL -INFO - Username entered
+2017-07-04 10:27:30,837 - ATMAIL -INFO - Password entered
+2017-07-04 10:27:39,724 - ATMAIL -INFO - Submit Login
+2017-07-04 10:27:55,712 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(31)
+2017-07-04 10:28:12,528 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 10:28:39,642 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 10:28:52,836 - ATMAIL -INFO - Default Status of Display Email Images:ON
+OFF
+ 
+2017-07-04 11:57:07,675 - ATMAIL -INFO - URL Entered
+2017-07-04 11:57:08,365 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 11:57:36,907 - ATMAIL -INFO - Username entered
+2017-07-04 11:57:37,619 - ATMAIL -INFO - Password entered
+2017-07-04 11:57:46,561 - ATMAIL -INFO - Submit Login
+2017-07-04 11:57:58,721 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(32)
+2017-07-04 11:58:13,612 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 12:44:59,876 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 12:45:09,532 - ATMAIL -INFO - Default Status of Display Email Images: 
+2017-07-04 12:47:26,745 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 12:47:30,593 - ATMAIL -INFO - Default Status of Display Email Images:ON
+2017-07-04 12:48:21,707 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 12:48:25,228 - ATMAIL -INFO - Default Status of Display Images:ON
+2017-07-04 12:48:49,817 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 12:48:55,205 - ATMAIL -INFO - Default Status of Display email Images:ON
+2017-07-04 12:55:18,667 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 12:55:26,065 - ATMAIL -INFO - Default Status of Display email Images:ON
+2017-07-04 13:00:54,840 - ATMAIL -INFO - URL Entered
+2017-07-04 13:00:56,003 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 13:01:24,874 - ATMAIL -INFO - Username entered
+2017-07-04 13:01:25,463 - ATMAIL -INFO - Password entered
+2017-07-04 13:01:35,087 - ATMAIL -INFO - Firefox has been closed
+2017-07-04 13:02:19,248 - ATMAIL -INFO - URL Entered
+2017-07-04 13:02:19,865 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 13:02:50,777 - ATMAIL -INFO - Username entered
+2017-07-04 13:02:51,620 - ATMAIL -INFO - Password entered
+2017-07-04 13:03:00,427 - ATMAIL -INFO - Submit Login
+2017-07-04 13:03:14,221 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(33)
+2017-07-04 13:03:25,472 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 13:04:39,122 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 13:04:45,632 - ATMAIL -INFO - Default Status of Display email Images:ON
+2017-07-04 13:06:00,517 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 13:06:08,404 - ATMAIL -INFO - Default Status of Display email Images:ON
+2017-07-04 13:06:19,255 - ATMAIL -INFO - Scrolling down
+2017-07-04 13:06:35,155 - ATMAIL -INFO - Alert message:
+2017-07-04 13:11:00,161 - ATMAIL -INFO - URL Entered
+2017-07-04 13:11:00,786 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 13:11:30,309 - ATMAIL -INFO - Username entered
+2017-07-04 13:11:31,205 - ATMAIL -INFO - Password entered
+2017-07-04 13:11:39,997 - ATMAIL -INFO - Submit Login
+2017-07-04 13:11:54,043 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(33)
+2017-07-04 13:12:06,127 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 13:12:16,778 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 13:13:13,926 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 13:13:19,540 - ATMAIL -INFO - Default Status of Display email Images:OFF
+2017-07-04 13:14:26,311 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 13:14:31,832 - ATMAIL -INFO - Default Status of Display email Images:ON
+2017-07-04 13:14:55,090 - ATMAIL -INFO - Scrolling down
+2017-07-04 13:15:01,313 - ATMAIL -INFO - Alert message:Settings Saved.
+2017-07-04 13:16:14,224 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 13:16:22,695 - ATMAIL -INFO - Default Status of Display email Images:OFF
+2017-07-04 13:16:49,416 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 13:16:54,201 - ATMAIL -INFO - Default Status of Display email Images:ON
+2017-07-04 13:17:04,441 - ATMAIL -INFO - Alert message:Settings Saved.
+2017-07-04 13:19:36,117 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 13:19:44,294 - ATMAIL -INFO - Default Status of Display email Images:OFF
+2017-07-04 13:20:32,940 - ATMAIL -INFO - No Alert message
+2017-07-04 13:20:53,383 - ATMAIL -INFO - Clicked on Settings tab
+2017-07-04 13:20:58,559 - ATMAIL -INFO - Default Status of Display email Images:OFF
+2017-07-04 13:21:08,367 - ATMAIL -INFO - Alert message:Settings Saved.to On
+2017-07-04 13:41:10,253 - ATMAIL -INFO - URL Entered
+2017-07-04 13:41:11,337 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 13:41:40,591 - ATMAIL -INFO - Username entered
+2017-07-04 13:41:41,396 - ATMAIL -INFO - Password entered
+2017-07-04 13:41:50,176 - ATMAIL -INFO - Submit Login
+2017-07-04 13:42:41,690 - ATMAIL -INFO - URL Entered
+2017-07-04 13:42:42,300 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 13:43:12,092 - ATMAIL -INFO - Username entered
+2017-07-04 13:43:12,884 - ATMAIL -INFO - Password entered
+2017-07-04 13:43:21,593 - ATMAIL -INFO - Submit Login
+2017-07-04 13:43:32,500 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(34)
+2017-07-04 13:43:42,205 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 13:43:49,212 - ATMAIL -INFO - Clicked on Contacts tab
+2017-07-04 13:44:21,811 - ATMAIL -INFO - Clicked on Contacts tab
+2017-07-04 13:58:48,759 - ATMAIL -INFO - URL Entered
+2017-07-04 13:58:49,456 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 13:59:18,029 - ATMAIL -INFO - Username entered
+2017-07-04 13:59:18,735 - ATMAIL -INFO - Password entered
+2017-07-04 13:59:27,633 - ATMAIL -INFO - Submit Login
+2017-07-04 13:59:32,042 - ATMAIL -INFO - Firefox has been closed
+2017-07-04 14:00:03,289 - ATMAIL -INFO - URL Entered
+2017-07-04 14:00:03,909 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 14:00:32,716 - ATMAIL -INFO - Username entered
+2017-07-04 14:00:33,395 - ATMAIL -INFO - Password entered
+2017-07-04 14:00:42,232 - ATMAIL -INFO - Submit Login
+2017-07-04 14:00:46,641 - ATMAIL -INFO - Firefox has been closed
+2017-07-04 14:01:35,070 - ATMAIL -INFO - URL Entered
+2017-07-04 14:01:36,983 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 14:02:06,598 - ATMAIL -INFO - Username entered
+2017-07-04 14:02:07,417 - ATMAIL -INFO - Password entered
+2017-07-04 14:02:16,227 - ATMAIL -INFO - Submit Login
+2017-07-04 14:02:20,717 - ATMAIL -INFO - Firefox has been closed
+2017-07-04 15:50:52,668 - ATMAIL -INFO - URL Entered
+2017-07-04 15:50:53,789 - ATMAIL -INFO - Clicked on SignIn
+2017-07-04 15:51:21,824 - ATMAIL -INFO - Username entered
+2017-07-04 15:51:22,372 - ATMAIL -INFO - Password entered
+2017-07-04 15:51:30,943 - ATMAIL -INFO - Submit Login
+2017-07-04 15:51:48,151 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(35)
+2017-07-04 15:51:58,771 - ATMAIL -INFO - Inbox Loaded
+2017-07-04 15:52:14,948 - ATMAIL -INFO - Clicked on Import
+2017-07-05 10:53:55,499 - ATMAIL -INFO - URL Entered
+2017-07-05 10:53:56,826 - ATMAIL -INFO - Firefox has been closed
+2017-07-05 10:54:32,058 - ATMAIL -INFO - URL Entered
+2017-07-05 10:54:32,748 - ATMAIL -INFO - Clicked on SignIn
+2017-07-05 10:54:35,005 - ATMAIL -INFO - Firefox has been closed
+2017-07-05 11:56:45,004 - ATMAIL -INFO - URL Entered
+2017-07-05 11:56:45,914 - ATMAIL -INFO - Clicked on SignIn
+2017-07-05 11:57:16,943 - ATMAIL -INFO - Username entered
+2017-07-05 11:57:17,628 - ATMAIL -INFO - Password entered
+2017-07-05 11:57:50,635 - ATMAIL -INFO - URL Entered
+2017-07-05 11:57:51,383 - ATMAIL -INFO - Clicked on SignIn
+2017-07-05 11:58:22,241 - ATMAIL -INFO - Username entered
+2017-07-05 11:58:22,958 - ATMAIL -INFO - Password entered
+2017-07-05 11:58:31,757 - ATMAIL -INFO - Submit Login
+2017-07-05 11:58:44,754 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(36)
+2017-07-05 11:58:55,441 - ATMAIL -INFO - Inbox Loaded
+2017-07-05 11:59:09,172 - ATMAIL -INFO - Clicked on Import
+2017-07-05 12:00:09,218 - ATMAIL -INFO - Clicked on Import
+2017-07-05 12:00:54,061 - ATMAIL -INFO - Clicked on Import
+2017-07-05 12:02:51,237 - ATMAIL -INFO - Clicked on Import
+2017-07-05 12:08:07,438 - ATMAIL -INFO - Clicked on Import
+2017-07-05 12:08:14,599 - ATMAIL -INFO - We noticed that there are duplicate contacts while importing.
+2017-07-05 12:11:48,900 - ATMAIL -INFO - Clicked on Import
+2017-07-05 12:11:54,801 - ATMAIL -INFO - Alert messageYour contact(s) have been imported.
+2017-07-11 10:10:02,563 - ATMAIL -INFO - URL Entered
+2017-07-11 10:10:03,435 - ATMAIL -INFO - Clicked on SignIn
+2017-07-11 10:10:32,094 - ATMAIL -INFO - Username entered
+2017-07-11 10:10:32,658 - ATMAIL -INFO - Password entered
+2017-07-11 10:10:41,202 - ATMAIL -INFO - Submit Login
+2017-07-11 10:10:51,722 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(69)
+2017-07-11 10:11:03,472 - ATMAIL -INFO - Inbox Loaded
+2017-07-11 10:11:38,601 - ATMAIL -INFO - Contacts has been selected
+2017-07-11 10:24:09,671 - ATMAIL -INFO - Contacts has been selected
+2017-07-11 10:29:30,230 - ATMAIL -INFO - Contacts has been selected
+2017-07-11 10:30:46,255 - ATMAIL -INFO - Contacts has been selected
+2017-07-11 10:39:06,800 - ATMAIL -INFO - Contacts has been selected
+2017-07-11 10:41:36,495 - ATMAIL -INFO - Contacts has been selected
+2017-07-11 10:41:44,891 - ATMAIL -INFO - Error Ocurred:true
+2017-07-11 10:44:32,928 - ATMAIL -INFO - Contacts has been selected
+2017-07-11 10:44:38,652 - ATMAIL -INFO - Error Ocurred:414 Request-URI Too Large
+2017-07-12 13:28:27,779 - ATMAIL -INFO - URL Entered
+2017-07-12 13:28:28,709 - ATMAIL -INFO - Clicked on SignIn
+2017-07-12 13:28:57,502 - ATMAIL -INFO - Username entered
+2017-07-12 13:28:58,122 - ATMAIL -INFO - Password entered
+2017-07-12 13:29:06,691 - ATMAIL -INFO - Submit Login
+2017-07-12 13:29:18,555 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(79)
+2017-07-12 13:29:32,922 - ATMAIL -INFO - Inbox Loaded
+2017-07-12 16:31:37,947 - ATMAIL -INFO - URL Entered
+2017-07-12 16:31:38,709 - ATMAIL -INFO - Clicked on SignIn
+2017-07-12 16:32:08,646 - ATMAIL -INFO - Username entered
+2017-07-12 16:32:09,191 - ATMAIL -INFO - Password entered
+2017-07-12 16:32:17,756 - ATMAIL -INFO - Submit Login
+2017-07-12 16:32:31,251 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(81)
+2017-07-12 16:32:54,403 - ATMAIL -INFO - Inbox Loaded
+2017-07-12 16:33:38,763 - ATMAIL -INFO - Compose email
+2017-07-12 16:54:54,752 - ATMAIL -INFO - Compose email
+2017-07-12 16:59:05,798 - ATMAIL -INFO - Compose email
+2017-07-12 17:06:55,421 - ATMAIL -INFO - Compose email
+2017-07-12 17:09:21,462 - ATMAIL -INFO - Compose email
+2017-07-12 17:12:23,437 - ATMAIL -INFO - Compose email
+2017-07-12 17:13:25,101 - ATMAIL -INFO - Compose email
+2017-07-12 17:53:11,705 - ATMAIL -INFO - Compose email
+2017-07-12 17:53:13,354 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 17:53:15,139 - ATMAIL -INFO - Account has been selected
+2017-07-12 17:53:21,996 - ATMAIL -INFO - Added Reciptient
+2017-07-12 17:53:29,338 - ATMAIL -INFO - Added subject
+2017-07-12 17:53:32,671 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 18:04:33,756 - ATMAIL -INFO - 3
+2017-07-12 18:04:38,755 - ATMAIL -INFO - Compose email
+2017-07-12 18:04:43,942 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:04:46,260 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:04:52,983 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:05:00,586 - ATMAIL -INFO - Added subject
+2017-07-12 18:05:03,055 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 18:05:17,277 - ATMAIL -INFO - Clicked on Send
+2017-07-12 18:06:52,287 - ATMAIL -INFO - 3
+2017-07-12 18:06:56,806 - ATMAIL -INFO - Compose email
+2017-07-12 18:06:58,438 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:06:59,881 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:07:06,025 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:07:16,485 - ATMAIL -INFO - Added subject
+2017-07-12 18:10:34,761 - ATMAIL -INFO - Compose email
+2017-07-12 18:10:36,991 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:10:38,642 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:10:50,208 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:10:57,156 - ATMAIL -INFO - Added subject
+2017-07-12 18:11:10,521 - ATMAIL -INFO - Compose email
+2017-07-12 18:11:12,055 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:11:13,694 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:11:20,613 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:11:27,807 - ATMAIL -INFO - Added subject
+2017-07-12 18:14:52,095 - ATMAIL -INFO - Compose email
+2017-07-12 18:14:53,613 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:14:59,799 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:15:12,524 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:15:46,730 - ATMAIL -INFO - Added subject
+2017-07-12 18:18:14,982 - ATMAIL -INFO - Compose email
+2017-07-12 18:18:18,936 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:18:20,550 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:18:26,907 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:18:33,038 - ATMAIL -INFO - Added subject
+2017-07-12 18:19:46,771 - ATMAIL -INFO - Compose email
+2017-07-12 18:19:48,359 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:19:49,768 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:20:01,887 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:20:12,819 - ATMAIL -INFO - Added subject
+2017-07-12 18:22:41,206 - ATMAIL -INFO - Compose email
+2017-07-12 18:22:42,639 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:22:44,084 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:22:57,285 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:23:07,066 - ATMAIL -INFO - Added subject
+2017-07-12 18:25:10,107 - ATMAIL -INFO - Compose email
+2017-07-12 18:25:13,434 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:25:15,202 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:25:21,874 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:25:29,181 - ATMAIL -INFO - Added subject
+2017-07-12 18:25:49,949 - ATMAIL -INFO - Compose email
+2017-07-12 18:25:51,285 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:25:53,089 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:25:59,350 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:26:05,714 - ATMAIL -INFO - Added subject
+2017-07-12 18:30:19,128 - ATMAIL -INFO - Compose email
+2017-07-12 18:30:20,744 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:30:22,292 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:30:29,006 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:30:49,172 - ATMAIL -INFO - Added subject
+2017-07-12 18:33:34,038 - ATMAIL -INFO - URL Entered
+2017-07-12 18:33:34,593 - ATMAIL -INFO - Clicked on SignIn
+2017-07-12 18:34:03,163 - ATMAIL -INFO - Username entered
+2017-07-12 18:34:03,769 - ATMAIL -INFO - Password entered
+2017-07-12 18:34:12,424 - ATMAIL -INFO - Submit Login
+2017-07-12 18:34:22,556 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(80)
+2017-07-12 18:34:33,135 - ATMAIL -INFO - Inbox Loaded
+2017-07-12 18:34:46,888 - ATMAIL -INFO - Compose email
+2017-07-12 18:34:48,939 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:34:50,750 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:34:57,538 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:35:04,080 - ATMAIL -INFO - Added subject
+2017-07-12 18:36:13,538 - ATMAIL -INFO - Compose email
+2017-07-12 18:36:15,262 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:36:16,402 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:36:23,213 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:36:29,383 - ATMAIL -INFO - Added subject
+2017-07-12 18:36:39,570 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 18:41:50,964 - ATMAIL -INFO - Compose email
+2017-07-12 18:41:52,835 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:41:54,319 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:42:00,396 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:42:21,426 - ATMAIL -INFO - Added subject
+2017-07-12 18:42:25,690 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 18:46:00,700 - ATMAIL -INFO - Compose email
+2017-07-12 18:46:02,352 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 18:46:06,890 - ATMAIL -INFO - Account has been selected
+2017-07-12 18:46:13,439 - ATMAIL -INFO - Added Reciptient
+2017-07-12 18:46:34,521 - ATMAIL -INFO - Added subject
+2017-07-12 18:46:39,786 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 18:46:49,800 - ATMAIL -INFO - Clicked on Send
+2017-07-12 18:46:52,963 - ATMAIL -INFO - Alert: 
+2017-07-12 19:04:25,477 - ATMAIL -INFO - Compose email
+2017-07-12 19:04:27,381 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 19:04:28,889 - ATMAIL -INFO - Account has been selected
+2017-07-12 19:04:34,899 - ATMAIL -INFO - Added Reciptient
+2017-07-12 19:04:41,256 - ATMAIL -INFO - Added subject
+2017-07-12 19:04:43,018 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 19:04:44,877 - ATMAIL -INFO - Clicked on Send
+2017-07-12 19:04:46,027 - ATMAIL -INFO - Alert: Message sent.
+2017-07-12 19:04:47,786 - ATMAIL -INFO - Checking Sent Box
+2017-07-12 19:04:51,869 - ATMAIL -INFO - Test scenario Failed
+2017-07-12 19:05:24,859 - ATMAIL -INFO - Compose email
+2017-07-12 19:05:26,101 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 19:05:27,633 - ATMAIL -INFO - Account has been selected
+2017-07-12 19:05:33,679 - ATMAIL -INFO - Added Reciptient
+2017-07-12 19:05:39,563 - ATMAIL -INFO - Added subject
+2017-07-12 19:05:41,418 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 19:05:43,197 - ATMAIL -INFO - Clicked on Send
+2017-07-12 19:05:44,531 - ATMAIL -INFO - Alert: Message sent.
+2017-07-12 19:05:46,008 - ATMAIL -INFO - Checking Sent Box
+2017-07-12 19:06:10,656 - ATMAIL -INFO - Compose email
+2017-07-12 19:06:11,749 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 19:06:12,731 - ATMAIL -INFO - Account has been selected
+2017-07-12 19:06:18,318 - ATMAIL -INFO - Added Reciptient
+2017-07-12 19:06:24,232 - ATMAIL -INFO - Added subject
+2017-07-12 19:06:26,315 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 19:06:28,142 - ATMAIL -INFO - Clicked on Send
+2017-07-12 19:06:28,956 - ATMAIL -INFO - Alert: Message sent.
+2017-07-12 19:06:31,555 - ATMAIL -INFO - Checking Sent Box
+2017-07-12 19:06:46,902 - ATMAIL -INFO - Test scenario Failed
+2017-07-12 19:09:12,296 - ATMAIL -INFO - Compose email
+2017-07-12 19:09:13,718 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 19:09:14,974 - ATMAIL -INFO - Account has been selected
+2017-07-12 19:09:21,310 - ATMAIL -INFO - Added Reciptient
+2017-07-12 19:09:27,152 - ATMAIL -INFO - Added subject
+2017-07-12 19:09:29,804 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 19:09:31,789 - ATMAIL -INFO - Clicked on Send
+2017-07-12 19:09:34,906 - ATMAIL -INFO - Message sent.Test Scenario Passed
+2017-07-12 19:10:36,712 - ATMAIL -INFO - Compose email
+2017-07-12 19:10:38,103 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-12 19:10:39,331 - ATMAIL -INFO - Account has been selected
+2017-07-12 19:10:45,258 - ATMAIL -INFO - Added Reciptient
+2017-07-12 19:10:51,157 - ATMAIL -INFO - Added subject
+2017-07-12 19:10:53,267 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-12 19:10:55,428 - ATMAIL -INFO - Clicked on Send
+2017-07-12 19:10:55,844 - ATMAIL -INFO - 1000
+2017-07-12 19:10:58,244 - ATMAIL -INFO - Message sent.Test Scenario Passed
+2017-07-13 10:13:48,386 - ATMAIL -INFO - URL Entered
+2017-07-13 10:13:49,328 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 10:14:18,981 - ATMAIL -INFO - Username entered
+2017-07-13 10:14:19,731 - ATMAIL -INFO - Password entered
+2017-07-13 10:14:28,357 - ATMAIL -INFO - Submit Login
+2017-07-13 10:14:40,104 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(86)
+2017-07-13 10:14:51,860 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 10:15:46,261 - ATMAIL -INFO - Compose email
+2017-07-13 10:15:48,636 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-13 10:15:50,572 - ATMAIL -INFO - Account has been selected
+2017-07-13 10:16:17,357 - ATMAIL -INFO - Added Reciptient
+2017-07-13 10:16:36,296 - ATMAIL -INFO - Added subject
+2017-07-13 10:16:39,901 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 10:16:52,849 - ATMAIL -INFO - Clicked on Send
+2017-07-13 10:16:56,997 - ATMAIL -INFO - Test Scenario Failed
+2017-07-13 10:26:15,058 - ATMAIL -INFO - Compose email
+2017-07-13 10:26:16,551 - ATMAIL -INFO - Account selecting from dropdown
+2017-07-13 10:26:17,922 - ATMAIL -INFO - Account has been selected
+2017-07-13 10:27:07,629 - ATMAIL -INFO - Added Reciptient
+2017-07-13 10:27:32,617 - ATMAIL -INFO - Added subject
+2017-07-13 10:27:35,578 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 10:27:38,221 - ATMAIL -INFO - Clicked on Send
+2017-07-13 10:27:40,990 - ATMAIL -INFO - Test Scenario Failed
+2017-07-13 10:30:21,254 - ATMAIL -INFO - URL Entered
+2017-07-13 10:30:21,835 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 10:30:51,568 - ATMAIL -INFO - Username entered
+2017-07-13 10:30:52,179 - ATMAIL -INFO - Password entered
+2017-07-13 10:31:00,785 - ATMAIL -INFO - Submit Login
+2017-07-13 10:31:15,070 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(86)
+2017-07-13 10:31:30,851 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 10:31:38,813 - ATMAIL -INFO - Unread email count is: 86
+2017-07-13 10:31:41,159 - ATMAIL -INFO - Test Scenario Passed
+2017-07-13 11:10:11,438 - ATMAIL -INFO - URL Entered
+2017-07-13 11:10:12,037 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 11:10:41,116 - ATMAIL -INFO - Username entered
+2017-07-13 11:10:41,646 - ATMAIL -INFO - Password entered
+2017-07-13 11:10:50,332 - ATMAIL -INFO - Submit Login
+2017-07-13 11:11:05,892 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(82)
+2017-07-13 11:11:17,918 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 11:13:20,224 - ATMAIL -INFO -  Mails has beeen selected
+2017-07-13 11:13:22,159 - ATMAIL -INFO -  Delete button has been clicked by Main Navigation
+2017-07-13 11:13:26,561 - ATMAIL -INFO - Pop up model available
+2017-07-13 11:13:32,240 - ATMAIL -INFO - Message(s) deleted.Test Scenario Passed
+2017-07-13 11:13:42,210 - ATMAIL -INFO -    Test Folder PTf5034Folder Has been selected
+2017-07-13 11:13:42,840 - ATMAIL -INFO -  Deleting the   Test Folder PTf5034
+2017-07-13 11:13:43,718 - ATMAIL -INFO - Test Scenario Failed
+2017-07-13 11:17:34,719 - ATMAIL -INFO - URL Entered
+2017-07-13 11:17:35,437 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 11:18:05,108 - ATMAIL -INFO - Username entered
+2017-07-13 11:18:05,752 - ATMAIL -INFO - Password entered
+2017-07-13 11:18:14,412 - ATMAIL -INFO - Submit Login
+2017-07-13 11:18:25,749 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(73)
+2017-07-13 11:18:41,848 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 11:19:15,475 - ATMAIL -INFO -    Test Folder PTc4655Folder Has been selected
+2017-07-13 11:19:22,118 - ATMAIL -INFO -  Deleting the   Test Folder PTc4655
+2017-07-13 11:19:41,727 - ATMAIL -INFO - Test Scenario Passed
+2017-07-13 11:20:33,476 - ATMAIL -INFO -    Test Folder PTc0252Folder Has been selected
+2017-07-13 11:20:36,087 - ATMAIL -INFO -  Deleting the   Test Folder PTc0252
+2017-07-13 11:20:39,179 - ATMAIL -INFO - Accepted the alert successfully.
+2017-07-13 11:20:47,267 - ATMAIL -INFO - Test Scenario Passed
+2017-07-13 14:33:55,708 - ATMAIL -INFO - URL Entered
+2017-07-13 14:33:56,472 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 14:34:26,172 - ATMAIL -INFO - Username entered
+2017-07-13 14:34:26,740 - ATMAIL -INFO - Password entered
+2017-07-13 14:34:35,416 - ATMAIL -INFO - Submit Login
+2017-07-13 14:34:46,150 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(64)
+2017-07-13 14:34:58,928 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 14:35:30,654 - ATMAIL -INFO - Unread email count is: 64
+2017-07-13 14:35:36,378 - ATMAIL -INFO - Unread emails availableTest Scenario passed for Black Dot
+2017-07-13 14:36:05,657 - ATMAIL -INFO - All unread emails has been selected
+2017-07-13 14:36:10,918 - ATMAIL -INFO - Emails has been selected
+2017-07-13 14:36:14,873 - ATMAIL -INFO - Email has been mark as read
+2017-07-13 14:36:17,531 - ATMAIL -INFO - Unread email count is: 61
+2017-07-13 14:36:20,084 - ATMAIL -INFO - Test Scenario Passed for Select All function box
+2017-07-13 14:36:28,421 - ATMAIL -INFO - Checking for format bar and link to text
+2017-07-13 14:36:54,179 - ATMAIL -INFO - Compose email
+2017-07-13 14:37:04,244 - ATMAIL -INFO - Added Reciptient
+2017-07-13 14:37:09,412 - ATMAIL -INFO - Added subject
+2017-07-13 14:37:12,387 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 14:39:02,362 - ATMAIL -INFO - Checking for format bar and link to text
+2017-07-13 14:39:06,788 - ATMAIL -INFO - Compose email
+2017-07-13 14:39:12,708 - ATMAIL -INFO - Added Reciptient
+2017-07-13 14:39:15,414 - ATMAIL -INFO - Added subject
+2017-07-13 14:39:17,441 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 14:41:00,795 - ATMAIL -INFO - Checking for format bar and link to text
+2017-07-13 14:41:06,157 - ATMAIL -INFO - Compose email
+2017-07-13 14:41:12,308 - ATMAIL -INFO - Added Reciptient
+2017-07-13 14:41:15,063 - ATMAIL -INFO - Added subject
+2017-07-13 14:41:17,012 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 14:45:26,280 - ATMAIL -INFO - Checking for format bar and link to text
+2017-07-13 14:45:31,497 - ATMAIL -INFO - Compose email
+2017-07-13 14:45:37,491 - ATMAIL -INFO - Added Reciptient
+2017-07-13 14:45:40,575 - ATMAIL -INFO - Added subject
+2017-07-13 14:45:50,628 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 14:50:38,851 - ATMAIL -INFO - Checking for format bar and link to text
+2017-07-13 14:50:45,411 - ATMAIL -INFO - Compose email
+2017-07-13 14:50:51,429 - ATMAIL -INFO - Added Reciptient
+2017-07-13 14:50:53,988 - ATMAIL -INFO - Added subject
+2017-07-13 14:50:55,997 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 14:51:04,660 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 15:26:44,150 - ATMAIL -INFO - Checking for format bar and link to text
+2017-07-13 15:26:49,945 - ATMAIL -INFO - Compose email
+2017-07-13 15:26:56,243 - ATMAIL -INFO - Added Reciptient
+2017-07-13 15:26:59,229 - ATMAIL -INFO - Added subject
+2017-07-13 15:27:01,188 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 15:27:06,793 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 15:28:07,356 - ATMAIL -INFO - Checking for format bar and link to text
+2017-07-13 15:28:18,355 - ATMAIL -INFO - Compose email
+2017-07-13 15:28:33,696 - ATMAIL -INFO - Added Reciptient
+2017-07-13 15:28:36,889 - ATMAIL -INFO - Added subject
+2017-07-13 15:28:38,797 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 15:28:42,776 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 15:28:45,082 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 15:28:49,157 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 15:28:50,502 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 15:28:51,748 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 15:28:53,015 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 15:31:47,753 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 15:32:03,229 - ATMAIL -INFO - Compose email
+2017-07-13 15:32:11,297 - ATMAIL -INFO - Added Reciptient
+2017-07-13 15:32:14,172 - ATMAIL -INFO - Added subject
+2017-07-13 15:32:16,209 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 15:32:20,701 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 15:32:22,181 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 15:32:24,000 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 15:32:25,605 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 15:32:27,412 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 15:32:35,386 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 15:33:14,501 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 15:33:18,330 - ATMAIL -INFO - Compose email
+2017-07-13 15:33:28,028 - ATMAIL -INFO - Added Reciptient
+2017-07-13 15:33:30,655 - ATMAIL -INFO - Added subject
+2017-07-13 15:33:32,365 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 15:33:35,854 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 15:33:37,019 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 15:33:38,136 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 15:33:39,396 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 15:33:40,515 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 15:33:41,702 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 15:33:43,989 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 15:33:49,879 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 15:33:52,425 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 15:36:15,875 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 15:36:20,259 - ATMAIL -INFO - Compose email
+2017-07-13 15:36:31,641 - ATMAIL -INFO - Added Reciptient
+2017-07-13 15:36:35,716 - ATMAIL -INFO - Added subject
+2017-07-13 15:36:47,376 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 15:37:04,691 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 15:37:06,763 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 15:37:09,385 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 15:37:10,878 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 15:37:15,735 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 15:37:38,166 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 15:37:42,105 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 15:37:44,165 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 15:37:47,760 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 15:37:49,271 - ATMAIL -INFO - Selected text checking for Outdent
+2017-07-13 15:37:55,508 - ATMAIL -INFO - Selected text changing size
+2017-07-13 15:37:56,970 - ATMAIL -INFO - Selected text changing size to Huge
+2017-07-13 15:38:03,007 - ATMAIL -INFO - Selected text changing size to Large
+2017-07-13 15:38:05,205 - ATMAIL -INFO - Selected text changing size to Normal
+2017-07-13 15:38:07,522 - ATMAIL -INFO - Selected text changing size to Small
+2017-07-13 15:38:14,803 - ATMAIL -INFO - Selected text changing to Number series
+2017-07-13 15:38:21,432 - ATMAIL -INFO - Selected text changing to Bullet point
+2017-07-13 15:38:28,762 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 15:43:04,958 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 15:43:08,989 - ATMAIL -INFO - Compose email
+2017-07-13 15:43:15,290 - ATMAIL -INFO - Added Reciptient
+2017-07-13 15:43:40,769 - ATMAIL -INFO - Added subject
+2017-07-13 15:43:42,619 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 15:43:46,833 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 15:43:48,219 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 15:43:49,623 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 15:43:51,951 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 15:43:54,561 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 15:43:55,659 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 15:43:57,274 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 15:43:58,452 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 15:43:59,354 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 15:44:00,643 - ATMAIL -INFO - Selected text checking for Outdent
+2017-07-13 15:44:01,762 - ATMAIL -INFO - Selected text changing size
+2017-07-13 15:44:02,860 - ATMAIL -INFO - Selected text changing size to Huge
+2017-07-13 15:44:04,828 - ATMAIL -INFO - Selected text changing size to Large
+2017-07-13 15:44:06,250 - ATMAIL -INFO - Selected text changing size to Normal
+2017-07-13 15:44:08,090 - ATMAIL -INFO - Selected text changing size to Small
+2017-07-13 15:44:09,229 - ATMAIL -INFO - Selected text changing to Number series
+2017-07-13 15:44:10,405 - ATMAIL -INFO - Selected text changing to Bullet point
+2017-07-13 15:44:11,797 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 15:48:15,988 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 15:48:41,352 - ATMAIL -INFO - Test scenario Failed:
+2017-07-13 15:50:25,633 - ATMAIL -INFO - Checking for fetch recipient, Long Sujbect and Add recipiet scenarios
+2017-07-13 15:50:32,413 - ATMAIL -INFO - Compose email
+2017-07-13 15:50:34,709 - ATMAIL -INFO - Added Reciptient
+2017-07-13 15:50:48,105 - ATMAIL -INFO - Rep: vitalfitness1@charter.net
+2017-07-13 15:50:53,479 - ATMAIL -INFO - Adding more than one recipient and long subject
+2017-07-13 15:51:37,524 - ATMAIL -INFO - Added subject
+2017-07-13 15:51:42,061 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 15:51:47,521 - ATMAIL -INFO - Clicked on Send
+2017-07-13 15:51:50,953 - ATMAIL -INFO - Message sent.Test Scenario Passed
+2017-07-13 15:53:27,058 - ATMAIL -INFO - URL Entered
+2017-07-13 15:53:27,612 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 15:54:00,241 - ATMAIL -INFO - Username entered
+2017-07-13 15:54:00,836 - ATMAIL -INFO - Password entered
+2017-07-13 15:54:09,455 - ATMAIL -INFO - Submit Login
+2017-07-13 15:54:37,066 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(61)
+2017-07-13 15:55:05,179 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 15:55:07,517 - ATMAIL -INFO - Unread email count is: 61
+2017-07-13 15:55:07,818 - ATMAIL -INFO - Test scenario Failed
+2017-07-13 15:55:07,818 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 15:55:10,514 - ATMAIL -INFO - Compose email
+2017-07-13 15:55:11,675 - ATMAIL -INFO - Added Reciptient
+2017-07-13 15:55:12,407 - ATMAIL -INFO - Added subject
+2017-07-13 15:55:13,129 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 15:55:14,511 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 15:55:15,058 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 15:55:15,599 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 15:55:16,133 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 15:55:16,681 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 15:55:17,220 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 15:55:17,823 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 15:55:18,408 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 15:55:18,956 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 15:55:19,496 - ATMAIL -INFO - Selected text checking for Outdent
+2017-07-13 15:55:20,011 - ATMAIL -INFO - Selected text changing size
+2017-07-13 15:55:20,546 - ATMAIL -INFO - Selected text changing size to Huge
+2017-07-13 15:55:21,219 - ATMAIL -INFO - Selected text changing size to Large
+2017-07-13 15:55:21,818 - ATMAIL -INFO - Selected text changing size to Normal
+2017-07-13 15:55:22,435 - ATMAIL -INFO - Selected text changing size to Small
+2017-07-13 15:55:22,956 - ATMAIL -INFO - Selected text changing to Number series
+2017-07-13 15:55:23,479 - ATMAIL -INFO - Selected text changing to Bullet point
+2017-07-13 15:55:24,045 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 15:55:25,299 - ATMAIL -INFO - Test scenario Failed:
+2017-07-13 15:55:25,302 - ATMAIL -INFO - Checking for fetch recipient, Long Sujbect and Add recipiet scenarios
+2017-07-13 15:55:27,903 - ATMAIL -INFO - Test scenario Failed
+2017-07-13 15:55:29,222 - ATMAIL -INFO - Firefox has been closed
+2017-07-13 15:57:04,103 - ATMAIL -INFO - URL Entered
+2017-07-13 15:57:04,706 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 15:57:36,660 - ATMAIL -INFO - Username entered
+2017-07-13 15:57:37,226 - ATMAIL -INFO - Password entered
+2017-07-13 15:57:45,836 - ATMAIL -INFO - Submit Login
+2017-07-13 15:58:16,866 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(61)
+2017-07-13 15:58:42,397 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 15:58:44,791 - ATMAIL -INFO - Unread email count is: 61
+2017-07-13 15:58:45,044 - ATMAIL -INFO - Test scenario Failed
+2017-07-13 15:58:45,044 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 15:58:47,771 - ATMAIL -INFO - Compose email
+2017-07-13 15:58:48,950 - ATMAIL -INFO - Added Reciptient
+2017-07-13 15:58:49,654 - ATMAIL -INFO - Added subject
+2017-07-13 15:58:50,345 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 15:58:51,721 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 15:58:52,262 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 15:58:52,785 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 15:58:53,301 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 15:58:53,842 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 15:58:54,360 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 15:58:54,947 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 15:58:55,534 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 15:58:56,077 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 15:58:56,605 - ATMAIL -INFO - Selected text checking for Outdent
+2017-07-13 15:58:57,137 - ATMAIL -INFO - Selected text changing size
+2017-07-13 15:58:57,675 - ATMAIL -INFO - Selected text changing size to Huge
+2017-07-13 15:58:58,277 - ATMAIL -INFO - Selected text changing size to Large
+2017-07-13 15:58:58,899 - ATMAIL -INFO - Selected text changing size to Normal
+2017-07-13 15:58:59,532 - ATMAIL -INFO - Selected text changing size to Small
+2017-07-13 15:59:00,068 - ATMAIL -INFO - Selected text changing to Number series
+2017-07-13 15:59:00,599 - ATMAIL -INFO - Selected text changing to Bullet point
+2017-07-13 15:59:01,170 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 15:59:02,702 - ATMAIL -INFO - Test scenario Failed:
+2017-07-13 15:59:02,702 - ATMAIL -INFO - Checking for fetch recipient, Long Sujbect and Add recipiet scenarios
+2017-07-13 15:59:04,995 - ATMAIL -INFO - Test scenario Failed
+2017-07-13 15:59:06,018 - ATMAIL -INFO - Firefox has been closed
+2017-07-13 16:14:58,229 - ATMAIL -INFO - URL Entered
+2017-07-13 16:14:58,824 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 16:15:32,773 - ATMAIL -INFO - Username entered
+2017-07-13 16:15:33,389 - ATMAIL -INFO - Password entered
+2017-07-13 16:15:42,927 - ATMAIL -INFO - Firefox has been closed
+2017-07-13 16:16:52,624 - ATMAIL -INFO - URL Entered
+2017-07-13 16:16:53,295 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 16:17:24,077 - ATMAIL -INFO - Username entered
+2017-07-13 16:17:24,732 - ATMAIL -INFO - Password entered
+2017-07-13 16:17:33,376 - ATMAIL -INFO - Submit Login
+2017-07-13 16:17:56,373 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(61)
+2017-07-13 16:18:17,380 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 16:18:19,771 - ATMAIL -INFO - Unread email count is: 61
+2017-07-13 16:18:20,087 - ATMAIL -INFO - Test scenario Failed
+2017-07-13 16:18:20,087 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 16:18:22,746 - ATMAIL -INFO - Compose email
+2017-07-13 16:18:23,911 - ATMAIL -INFO - Added Reciptient
+2017-07-13 16:18:24,648 - ATMAIL -INFO - Added subject
+2017-07-13 16:18:25,333 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 16:18:26,629 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 16:18:27,169 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 16:18:27,694 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 16:18:28,231 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 16:18:28,768 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 16:18:29,316 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 16:18:29,905 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 16:18:30,490 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 16:18:31,090 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 16:18:31,607 - ATMAIL -INFO - Selected text checking for Outdent
+2017-07-13 16:18:32,162 - ATMAIL -INFO - Selected text changing size
+2017-07-13 16:18:32,730 - ATMAIL -INFO - Selected text changing size to Huge
+2017-07-13 16:18:33,391 - ATMAIL -INFO - Selected text changing size to Large
+2017-07-13 16:18:34,026 - ATMAIL -INFO - Selected text changing size to Normal
+2017-07-13 16:18:34,721 - ATMAIL -INFO - Selected text changing size to Small
+2017-07-13 16:18:35,376 - ATMAIL -INFO - Selected text changing to Number series
+2017-07-13 16:18:35,932 - ATMAIL -INFO - Selected text changing to Bullet point
+2017-07-13 16:18:36,528 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 16:18:39,915 - ATMAIL -INFO - Remove link to plain text
+2017-07-13 16:18:40,451 - ATMAIL -INFO - Clicked on Send
+2017-07-13 16:18:40,452 - ATMAIL -INFO - Checking for fetch recipient, Long Sujbect and Add recipiet scenarios
+2017-07-13 16:18:43,054 - ATMAIL -INFO - Compose email
+2017-07-13 16:18:43,553 - ATMAIL -INFO - Added Reciptient
+2017-07-13 16:18:43,782 - ATMAIL -INFO - Test scenario Failed
+2017-07-13 16:18:44,795 - ATMAIL -INFO - Firefox has been closed
+2017-07-13 16:53:35,180 - ATMAIL -INFO - URL Entered
+2017-07-13 16:53:35,735 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 16:54:05,777 - ATMAIL -INFO - Username entered
+2017-07-13 16:54:06,395 - ATMAIL -INFO - Password entered
+2017-07-13 16:54:15,045 - ATMAIL -INFO - Submit Login
+2017-07-13 16:54:31,539 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(62)
+2017-07-13 16:54:44,518 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 16:54:46,895 - ATMAIL -INFO - Unread email count is: 62
+2017-07-13 16:54:47,194 - ATMAIL -INFO - Unread emails availableTest Scenario passed for Black Dot
+2017-07-13 16:54:47,741 - ATMAIL -INFO - Test scenario Failed
+2017-07-13 16:54:47,741 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 16:54:50,473 - ATMAIL -INFO - Compose email
+2017-07-13 16:54:51,674 - ATMAIL -INFO - Added Reciptient
+2017-07-13 16:54:52,422 - ATMAIL -INFO - Added subject
+2017-07-13 16:54:53,098 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 16:54:54,352 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 16:54:54,892 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 16:54:55,416 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 16:54:55,926 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 16:54:56,475 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 16:54:57,006 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 16:54:57,591 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 16:54:58,196 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 16:54:58,737 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 16:54:59,273 - ATMAIL -INFO - Selected text checking for Outdent
+2017-07-13 16:54:59,818 - ATMAIL -INFO - Selected text changing size
+2017-07-13 16:55:00,328 - ATMAIL -INFO - Selected text changing size to Huge
+2017-07-13 16:55:00,936 - ATMAIL -INFO - Selected text changing size to Large
+2017-07-13 16:55:01,611 - ATMAIL -INFO - Selected text changing size to Normal
+2017-07-13 16:55:02,216 - ATMAIL -INFO - Selected text changing size to Small
+2017-07-13 16:55:02,767 - ATMAIL -INFO - Selected text changing to Number series
+2017-07-13 16:55:03,283 - ATMAIL -INFO - Selected text changing to Bullet point
+2017-07-13 16:55:03,829 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 16:55:07,356 - ATMAIL -INFO - Remove link to plain text
+2017-07-13 16:55:07,890 - ATMAIL -INFO - Clicked on Send
+2017-07-13 16:55:07,891 - ATMAIL -INFO - Checking for fetch recipient, Long Sujbect and Add recipiet scenarios
+2017-07-13 16:55:10,502 - ATMAIL -INFO - Compose email
+2017-07-13 16:55:11,038 - ATMAIL -INFO - Added Reciptient
+2017-07-13 16:55:11,298 - ATMAIL -INFO - Test scenario Failed
+2017-07-13 16:55:12,314 - ATMAIL -INFO - Firefox has been closed
+2017-07-13 16:55:58,404 - ATMAIL -INFO - URL Entered
+2017-07-13 16:55:58,991 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 16:56:27,555 - ATMAIL -INFO - Username entered
+2017-07-13 16:56:28,111 - ATMAIL -INFO - Password entered
+2017-07-13 16:56:36,791 - ATMAIL -INFO - Submit Login
+2017-07-13 16:56:53,378 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(63)
+2017-07-13 16:57:06,705 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 16:57:42,748 - ATMAIL -INFO - Unread email count is: 63
+2017-07-13 16:57:52,833 - ATMAIL -INFO - Unread emails availableTest Scenario passed for Black Dot
+2017-07-13 16:57:53,967 - ATMAIL -INFO - All unread emails has been selected
+2017-07-13 16:57:55,835 - ATMAIL -INFO - Emails has been selected
+2017-07-13 16:57:57,055 - ATMAIL -INFO - Email has been mark as read
+2017-07-13 16:57:57,973 - ATMAIL -INFO - Unread email count is: 63
+2017-07-13 16:57:58,004 - ATMAIL -INFO - Test Scenario Passed for Select All function box
+2017-07-13 16:57:58,103 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 16:58:01,009 - ATMAIL -INFO - Compose email
+2017-07-13 16:58:06,389 - ATMAIL -INFO - Added Reciptient
+2017-07-13 16:58:08,423 - ATMAIL -INFO - Added subject
+2017-07-13 16:58:09,242 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 16:58:10,671 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 16:58:11,297 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 16:58:11,848 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 16:58:12,409 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 16:58:12,970 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 16:58:13,520 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 16:58:14,195 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 16:58:14,857 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 16:58:15,410 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 16:58:15,971 - ATMAIL -INFO - Selected text checking for Outdent
+2017-07-13 16:58:16,514 - ATMAIL -INFO - Selected text changing size
+2017-07-13 16:58:17,041 - ATMAIL -INFO - Selected text changing size to Huge
+2017-07-13 16:58:17,728 - ATMAIL -INFO - Selected text changing size to Large
+2017-07-13 16:58:18,413 - ATMAIL -INFO - Selected text changing size to Normal
+2017-07-13 16:58:19,071 - ATMAIL -INFO - Selected text changing size to Small
+2017-07-13 16:58:19,607 - ATMAIL -INFO - Selected text changing to Number series
+2017-07-13 16:58:20,159 - ATMAIL -INFO - Selected text changing to Bullet point
+2017-07-13 16:58:20,736 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 16:59:34,030 - ATMAIL -INFO - Checking for format bar and link to text:
+2017-07-13 16:59:38,328 - ATMAIL -INFO - Compose email
+2017-07-13 16:59:44,750 - ATMAIL -INFO - Added Reciptient
+2017-07-13 16:59:47,611 - ATMAIL -INFO - Added subject
+2017-07-13 16:59:49,590 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 16:59:55,765 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 16:59:57,267 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 16:59:58,755 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 17:00:00,320 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 17:00:01,844 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 17:00:03,370 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 17:00:05,488 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 17:00:07,927 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 17:00:09,572 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 17:00:11,050 - ATMAIL -INFO - Selected text checking for Outdent
+2017-07-13 17:00:12,468 - ATMAIL -INFO - Selected text changing size
+2017-07-13 17:00:13,946 - ATMAIL -INFO - Selected text changing size to Huge
+2017-07-13 17:00:16,316 - ATMAIL -INFO - Selected text changing size to Large
+2017-07-13 17:00:18,262 - ATMAIL -INFO - Selected text changing size to Normal
+2017-07-13 17:00:20,596 - ATMAIL -INFO - Selected text changing size to Small
+2017-07-13 17:00:23,553 - ATMAIL -INFO - Selected text changing to Number series
+2017-07-13 17:00:25,281 - ATMAIL -INFO - Selected text changing to Bullet point
+2017-07-13 17:00:26,521 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 17:03:49,169 - ATMAIL -INFO - Remove link to plain text
+2017-07-13 17:03:52,389 - ATMAIL -INFO - Clicked on Send
+2017-07-13 17:03:57,110 - ATMAIL -INFO - Checking for fetch recipient, Long Sujbect and Add recipiet scenarios
+2017-07-13 17:04:01,284 - ATMAIL -INFO - Compose email
+2017-07-13 17:04:03,364 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:10:17,154 - ATMAIL -INFO - URL Entered
+2017-07-13 17:10:18,060 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 17:10:47,822 - ATMAIL -INFO - Username entered
+2017-07-13 17:10:48,386 - ATMAIL -INFO - Password entered
+2017-07-13 17:10:56,984 - ATMAIL -INFO - Submit Login
+2017-07-13 17:11:15,684 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(62)
+2017-07-13 17:11:27,275 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 17:11:35,795 - ATMAIL -INFO - Compose email
+2017-07-13 17:11:41,900 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:11:44,820 - ATMAIL -INFO - Added subject
+2017-07-13 17:12:05,606 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 17:12:10,881 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 17:13:09,132 - ATMAIL -INFO - Compose email
+2017-07-13 17:13:15,016 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:13:17,641 - ATMAIL -INFO - Added subject
+2017-07-13 17:13:19,284 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 17:13:24,358 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 17:15:20,349 - ATMAIL -INFO - Compose email
+2017-07-13 17:15:26,328 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:15:29,019 - ATMAIL -INFO - Added subject
+2017-07-13 17:15:31,096 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 17:15:35,643 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 17:16:03,984 - ATMAIL -INFO - Compose email
+2017-07-13 17:16:10,020 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:16:12,481 - ATMAIL -INFO - Added subject
+2017-07-13 17:16:13,818 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 17:16:18,442 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 17:17:51,277 - ATMAIL -INFO - URL Entered
+2017-07-13 17:17:51,882 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 17:18:20,198 - ATMAIL -INFO - Username entered
+2017-07-13 17:18:20,792 - ATMAIL -INFO - Password entered
+2017-07-13 17:18:29,363 - ATMAIL -INFO - Submit Login
+2017-07-13 17:18:41,743 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(62)
+2017-07-13 17:18:55,491 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 17:19:00,345 - ATMAIL -INFO - Compose email
+2017-07-13 17:19:02,298 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:19:03,766 - ATMAIL -INFO - Added subject
+2017-07-13 17:19:05,660 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 17:19:10,216 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 17:23:22,634 - ATMAIL -INFO - URL Entered
+2017-07-13 17:23:23,525 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 17:23:54,046 - ATMAIL -INFO - Username entered
+2017-07-13 17:23:54,709 - ATMAIL -INFO - Password entered
+2017-07-13 17:24:03,340 - ATMAIL -INFO - Submit Login
+2017-07-13 17:24:13,483 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(62)
+2017-07-13 17:24:25,595 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 17:24:29,906 - ATMAIL -INFO - Compose email
+2017-07-13 17:24:31,829 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:24:33,338 - ATMAIL -INFO - Added subject
+2017-07-13 17:24:35,604 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 17:24:42,824 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 17:25:26,228 - ATMAIL -INFO - Firefox has been closed
+2017-07-13 17:25:58,762 - ATMAIL -INFO - URL Entered
+2017-07-13 17:26:00,458 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 17:26:28,835 - ATMAIL -INFO - Username entered
+2017-07-13 17:26:29,422 - ATMAIL -INFO - Password entered
+2017-07-13 17:26:37,969 - ATMAIL -INFO - return
+2017-07-13 17:26:39,006 - ATMAIL -INFO - Firefox has been closed
+2017-07-13 17:27:06,676 - ATMAIL -INFO - URL Entered
+2017-07-13 17:27:07,300 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 17:27:36,904 - ATMAIL -INFO - Username entered
+2017-07-13 17:27:37,473 - ATMAIL -INFO - Password entered
+2017-07-13 17:27:46,174 - ATMAIL -INFO - Submit Login
+2017-07-13 17:28:04,773 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(62)
+2017-07-13 17:28:19,310 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 17:28:22,792 - ATMAIL -INFO - Compose email
+2017-07-13 17:28:24,965 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:28:26,488 - ATMAIL -INFO - Added subject
+2017-07-13 17:28:28,393 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 17:28:39,162 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 17:29:06,818 - ATMAIL -INFO - Remove link to plain text
+2017-07-13 17:32:10,494 - ATMAIL -INFO - URL Entered
+2017-07-13 17:32:11,042 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 17:32:41,297 - ATMAIL -INFO - Username entered
+2017-07-13 17:32:41,922 - ATMAIL -INFO - Password entered
+2017-07-13 17:32:50,506 - ATMAIL -INFO - Submit Login
+2017-07-13 17:33:06,489 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(62)
+2017-07-13 17:33:17,560 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 17:33:20,272 - ATMAIL -INFO - Compose email
+2017-07-13 17:33:21,522 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:33:22,732 - ATMAIL -INFO - Added subject
+2017-07-13 17:33:23,474 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 17:33:24,751 - ATMAIL -INFO - Fortmat Bar Available
+2017-07-13 17:33:25,316 - ATMAIL -INFO - Selected text changed Bold
+2017-07-13 17:33:25,851 - ATMAIL -INFO - Selected text changed Italic
+2017-07-13 17:33:26,387 - ATMAIL -INFO - Selected text changed Underline
+2017-07-13 17:33:26,923 - ATMAIL -INFO - Selected text checking for Alignment
+2017-07-13 17:33:27,451 - ATMAIL -INFO - Selected text moving to Right
+2017-07-13 17:33:28,274 - ATMAIL -INFO - Selected text moving to Center
+2017-07-13 17:33:28,887 - ATMAIL -INFO - Selected text moving to Left
+2017-07-13 17:33:29,399 - ATMAIL -INFO - Selected text checking for Indent
+2017-07-13 17:33:29,957 - ATMAIL -INFO - Selected text checking for Outdent
+2017-07-13 17:33:30,479 - ATMAIL -INFO - Selected text changing size
+2017-07-13 17:33:31,000 - ATMAIL -INFO - Selected text changing size to Huge
+2017-07-13 17:33:31,588 - ATMAIL -INFO - Selected text changing size to Large
+2017-07-13 17:33:32,168 - ATMAIL -INFO - Selected text changing size to Normal
+2017-07-13 17:33:32,756 - ATMAIL -INFO - Selected text changing size to Small
+2017-07-13 17:33:33,275 - ATMAIL -INFO - Selected text changing to Number series
+2017-07-13 17:33:33,792 - ATMAIL -INFO - Selected text changing to Bullet point
+2017-07-13 17:33:34,379 - ATMAIL -INFO - Selected text changing to Link
+2017-07-13 17:33:40,859 - ATMAIL -INFO - Remove link to plain text
+2017-07-13 17:33:41,534 - ATMAIL -INFO - Clicked on Send
+2017-07-13 17:33:41,534 - ATMAIL -INFO - Checking for fetch recipient, Long Sujbect and Add recipiet scenarios
+2017-07-13 17:33:44,314 - ATMAIL -INFO - Compose email
+2017-07-13 17:33:45,303 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:33:47,303 - ATMAIL -INFO - Test scenario Failed
+2017-07-13 17:33:48,341 - ATMAIL -INFO - Firefox has been closed
+2017-07-13 17:35:39,641 - ATMAIL -INFO - URL Entered
+2017-07-13 17:35:40,219 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 17:36:09,317 - ATMAIL -INFO - Username entered
+2017-07-13 17:36:09,894 - ATMAIL -INFO - Password entered
+2017-07-13 17:36:18,560 - ATMAIL -INFO - Submit Login
+2017-07-13 17:36:32,646 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(63)
+2017-07-13 17:36:44,220 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 17:36:44,225 - ATMAIL -INFO - Checking for fetch recipient, Long Sujbect and Add recipiet scenarios
+2017-07-13 17:38:03,133 - ATMAIL -INFO - Compose email
+2017-07-13 17:38:06,153 - ATMAIL -INFO - Added Reciptient
+2017-07-13 17:38:13,537 - ATMAIL -INFO - Rep: vitalfitness1@charter.net
+2017-07-13 17:38:14,890 - ATMAIL -INFO - Adding more than one recipient and long subject
+2017-07-13 17:39:03,207 - ATMAIL -INFO - Added subject
+2017-07-13 17:39:10,854 - ATMAIL -INFO - Text has been entered in body of the email
+2017-07-13 17:39:14,694 - ATMAIL -INFO - Clicked on Send
+2017-07-13 17:39:17,696 - ATMAIL -INFO - Message sent.Test Scenario Passed
+2017-07-13 18:20:17,748 - ATMAIL -INFO - URL Entered
+2017-07-13 18:20:18,333 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 18:20:47,132 - ATMAIL -INFO - Username entered
+2017-07-13 18:20:47,785 - ATMAIL -INFO - Password entered
+2017-07-13 18:20:56,386 - ATMAIL -INFO - Submit Login
+2017-07-13 18:21:10,379 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(63)
+2017-07-13 18:21:23,239 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 18:21:30,706 - ATMAIL -INFO - Compose email
+2017-07-13 18:21:33,726 - ATMAIL -INFO - Added Reciptient
+2017-07-13 18:21:36,513 - ATMAIL -INFO - Added subject
+2017-07-13 18:21:38,946 - ATMAIL -INFO - Special characters has been entered in body of the email
+2017-07-13 18:21:46,596 - ATMAIL -INFO - Clicked on Send
+2017-07-13 18:21:51,458 - ATMAIL -INFO - Message sent.Test Scenario Passed
+2017-07-13 18:22:00,033 - ATMAIL -INFO - Compose email
+2017-07-13 18:22:06,625 - ATMAIL -INFO - Added Reciptient
+2017-07-13 18:22:27,967 - ATMAIL -INFO - Added subject
+2017-07-13 18:22:30,604 - ATMAIL -INFO - text has been entered
+2017-07-13 18:23:31,541 - ATMAIL -INFO - Compose email
+2017-07-13 18:23:39,397 - ATMAIL -INFO - Added Reciptient
+2017-07-13 18:23:56,421 - ATMAIL -INFO - Added subject
+2017-07-13 18:24:00,308 - ATMAIL -INFO - text has been entered
+2017-07-13 18:25:28,858 - ATMAIL -INFO - Compose email
+2017-07-13 18:25:34,730 - ATMAIL -INFO - Added Reciptient
+2017-07-13 18:25:43,498 - ATMAIL -INFO - Added subject
+2017-07-13 18:25:45,475 - ATMAIL -INFO - text has been entered
+2017-07-13 19:14:58,831 - ATMAIL -INFO - URL Entered
+2017-07-13 19:14:59,385 - ATMAIL -INFO - return
+2017-07-13 19:15:00,417 - ATMAIL -INFO - Firefox has been closed
+2017-07-13 19:15:34,977 - ATMAIL -INFO - URL Entered
+2017-07-13 19:15:35,558 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 19:16:03,679 - ATMAIL -INFO - Username entered
+2017-07-13 19:16:04,196 - ATMAIL -INFO - Password entered
+2017-07-13 19:16:12,745 - ATMAIL -INFO - Submit Login
+2017-07-13 19:16:24,766 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(63)
+2017-07-13 19:16:35,238 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 19:24:44,117 - ATMAIL -INFO - URL Entered
+2017-07-13 19:24:44,899 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 19:25:15,488 - ATMAIL -INFO - Username entered
+2017-07-13 19:25:16,264 - ATMAIL -INFO - Password entered
+2017-07-13 19:25:25,166 - ATMAIL -INFO - Submit Login
+2017-07-13 19:25:38,848 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(63)
+2017-07-13 19:25:50,963 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 19:29:35,355 - ATMAIL -INFO - Alert Occured:
+2017-07-13 19:31:05,341 - ATMAIL -INFO - Drop in folder name:   TEst 36
+2017-07-13 19:31:08,801 - ATMAIL -INFO - Alert Occured:Message(s) moved.
+2017-07-13 19:46:24,721 - ATMAIL -INFO - URL Entered
+2017-07-13 19:46:25,598 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 19:46:55,266 - ATMAIL -INFO - Username entered
+2017-07-13 19:46:55,817 - ATMAIL -INFO - Password entered
+2017-07-13 19:47:04,373 - ATMAIL -INFO - Submit Login
+2017-07-13 19:47:19,057 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(57)
+2017-07-13 19:47:44,683 - ATMAIL -INFO - Inbox Loaded
+2017-07-13 19:48:38,797 - ATMAIL -INFO - Alert Occured:Are you sure you want to delete these emails?
+2017-07-13 19:48:49,191 - ATMAIL -INFO - Alert Occured:Message(s) deleted.Test Scenario Passed
+2017-07-13 19:59:02,499 - ATMAIL -INFO - URL Entered
+2017-07-13 19:59:03,147 - ATMAIL -INFO - Clicked on SignIn
+2017-07-13 19:59:32,799 - ATMAIL -INFO - Username entered
+2017-07-13 19:59:33,492 - ATMAIL -INFO - Password entered
+2017-07-13 19:59:42,083 - ATMAIL -INFO - Submit Login
+2017-07-13 19:59:56,341 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(46)
+2017-07-13 20:00:05,854 - ATMAIL -INFO - Inbox Loaded
+2017-07-14 08:40:04,532 - ATMAIL -INFO - URL Entered
+2017-07-14 08:40:05,123 - ATMAIL -INFO - Clicked on SignIn
+2017-07-14 08:40:34,149 - ATMAIL -INFO - Username entered
+2017-07-14 08:40:34,694 - ATMAIL -INFO - Password entered
+2017-07-14 08:40:43,298 - ATMAIL -INFO - Submit Login
+2017-07-14 08:40:53,603 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(46)
+2017-07-14 08:41:04,848 - ATMAIL -INFO - Inbox Loaded
+2017-07-14 08:41:35,439 - ATMAIL -INFO - Create new folder
+2017-07-14 08:41:51,043 - ATMAIL -INFO - Create new folder
+2017-07-14 08:43:00,860 - ATMAIL -INFO - Create new folder
+2017-07-14 08:45:09,552 - ATMAIL -INFO - Create new folder
+2017-07-14 08:46:04,643 - ATMAIL -INFO - Create new folder
+2017-07-14 08:46:21,021 - ATMAIL -INFO - Create new folder
+2017-07-14 08:52:16,351 - ATMAIL -INFO - Create new folder
+2017-07-14 08:55:33,658 - ATMAIL -INFO - Create new folder
+2017-07-14 09:40:46,680 - ATMAIL -INFO - Create new folder
+2017-07-14 09:41:43,307 - ATMAIL -INFO - Create new folder
+2017-07-14 09:43:49,296 - ATMAIL -INFO - Create new folder
+2017-07-14 09:45:02,190 - ATMAIL -INFO - Create new folder
+2017-07-14 09:52:09,936 - ATMAIL -INFO - Create new folder
+2017-07-14 09:52:16,016 - ATMAIL -INFO - Folder name entered
+2017-07-14 09:52:25,489 - ATMAIL -INFO - Click on Create
+2017-07-14 09:52:28,536 - ATMAIL -INFO - Group Folder CreatedTest Scenario Passed
+2017-07-14 09:52:45,321 - ATMAIL -INFO - Already created folder name is 
+2017-07-14 10:01:44,363 - ATMAIL -INFO - Already created folder name is boy
+2017-07-14 10:03:41,679 - ATMAIL -INFO - Already created folder name is boy
+2017-07-14 10:03:46,325 - ATMAIL -INFO - Create existing folder
+2017-07-14 10:06:48,134 - ATMAIL -INFO - Already created folder name is boy
+2017-07-14 10:06:49,755 - ATMAIL -INFO - Create existing folder
+2017-07-14 10:06:51,563 - ATMAIL -INFO - Folder name entered
+2017-07-14 10:06:53,170 - ATMAIL -INFO - Click on Create
+2017-07-14 10:06:55,862 - ATMAIL -INFO - Group Folder CreatedTest Scenario Passed
+2017-07-14 11:33:04,489 - ATMAIL -INFO - URL Entered
+2017-07-14 11:33:05,249 - ATMAIL -INFO - Clicked on SignIn
+2017-07-14 11:33:34,033 - ATMAIL -INFO - Username entered
+2017-07-14 11:33:34,776 - ATMAIL -INFO - Password entered
+2017-07-14 11:33:43,452 - ATMAIL -INFO - Submit Login
+2017-07-14 11:33:59,242 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(47)
+2017-07-14 11:34:10,491 - ATMAIL -INFO - Inbox Loaded
+2017-07-14 11:34:19,975 - ATMAIL -INFO - Settings
+2017-07-14 11:34:28,442 - ATMAIL -INFO - Default Setting Loaded: Test Scenario Passed
+2017-07-14 11:34:40,121 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-14 11:36:55,284 - ATMAIL -INFO - Password Available for Unified Account
+2017-07-14 11:37:09,357 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-14 11:38:11,544 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-14 11:38:21,596 - ATMAIL -INFO - Default Status of Enable Mail Forwarding:on
+2017-07-14 11:38:50,214 - ATMAIL -INFO - Alert message:Account Settings Saved
+2017-07-14 11:39:05,802 - ATMAIL -INFO - Forwarded email address:trhrthryh@thjh.comTest Scenario Passed
+2017-07-14 11:39:51,454 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-14 11:40:10,307 - ATMAIL -INFO - Reply to Consists the emmail#: 
+2017-07-14 11:40:26,995 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 08:23:27,190 - ATMAIL -INFO - URL Entered
+2017-07-19 08:23:28,167 - ATMAIL -INFO - Clicked on SignIn
+2017-07-19 08:23:58,473 - ATMAIL -INFO - Username entered
+2017-07-19 08:23:59,076 - ATMAIL -INFO - Password entered
+2017-07-19 08:24:07,674 - ATMAIL -INFO - Submit Login
+2017-07-19 08:24:19,602 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(66)
+2017-07-19 08:24:31,075 - ATMAIL -INFO - Inbox Loaded
+2017-07-19 08:24:43,091 - ATMAIL -INFO - Settings
+2017-07-19 08:24:52,202 - ATMAIL -INFO - Default Setting Loaded: Test Scenario Passed
+2017-07-19 08:25:10,954 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 08:25:36,123 - ATMAIL -INFO - Password Available for Unified Account
+2017-07-19 08:25:53,423 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 08:26:36,230 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 08:27:02,139 - ATMAIL -INFO - Default Status of Enable Mail Forwarding:on
+2017-07-19 08:27:34,411 - ATMAIL -INFO - Alert message:Account Settings Saved
+2017-07-19 08:27:52,808 - ATMAIL -INFO - Forwarded email address:Test Scenario Passed
+2017-07-19 08:28:23,493 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 08:28:52,580 - ATMAIL -INFO - Reply to Consists the emmail: 
+2017-07-19 08:29:11,618 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 08:29:54,176 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 08:30:11,342 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 13:16:37,177 - ATMAIL -INFO - URL Entered
+2017-07-19 13:16:37,949 - ATMAIL -INFO - Clicked on SignIn
+2017-07-19 13:17:16,835 - ATMAIL -INFO - Username entered
+2017-07-19 13:17:17,401 - ATMAIL -INFO - Password entered
+2017-07-19 13:17:25,949 - ATMAIL -INFO - Submit Login
+2017-07-19 13:17:29,238 - ATMAIL -INFO - return
+2017-07-19 13:17:30,477 - ATMAIL -INFO - Firefox has been closed
+2017-07-19 13:18:49,086 - ATMAIL -INFO - URL Entered
+2017-07-19 13:18:49,738 - ATMAIL -INFO - Clicked on SignIn
+2017-07-19 13:18:53,854 - ATMAIL -INFO - return
+2017-07-19 13:18:54,879 - ATMAIL -INFO - Firefox has been closed
+2017-07-19 13:19:25,705 - ATMAIL -INFO - URL Entered
+2017-07-19 13:19:26,363 - ATMAIL -INFO - Clicked on SignIn
+2017-07-19 13:19:57,485 - ATMAIL -INFO - Username entered
+2017-07-19 13:19:58,073 - ATMAIL -INFO - Password entered
+2017-07-19 13:20:06,569 - ATMAIL -INFO - Submit Login
+2017-07-19 13:20:09,835 - ATMAIL -INFO - return
+2017-07-19 13:20:10,866 - ATMAIL -INFO - Firefox has been closed
+2017-07-19 13:21:04,281 - ATMAIL -INFO - URL Entered
+2017-07-19 13:21:05,031 - ATMAIL -INFO - Clicked on SignIn
+2017-07-19 13:21:34,431 - ATMAIL -INFO - Username entered
+2017-07-19 13:21:35,021 - ATMAIL -INFO - Password entered
+2017-07-19 13:21:43,529 - ATMAIL -INFO - Submit Login
+2017-07-19 13:22:04,175 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(68)
+2017-07-19 13:22:20,262 - ATMAIL -INFO - Inbox Loaded
+2017-07-19 13:22:38,373 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 13:27:19,757 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 13:28:06,787 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 13:30:52,899 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-19 13:34:39,598 - ATMAIL -INFO - Clicked on Accoutn Settings tab
+2017-07-21 10:26:35,712 - ATMAIL -INFO - URL Entered
+2017-07-21 10:26:36,595 - ATMAIL -INFO - Clicked on SignIn
+2017-07-21 10:27:11,678 - ATMAIL -INFO - Username entered
+2017-07-21 10:27:12,290 - ATMAIL -INFO - Password entered
+2017-07-21 10:27:20,880 - ATMAIL -INFO - Submit Login
+2017-07-21 10:27:24,194 - ATMAIL -INFO - return
+2017-07-21 10:27:25,303 - ATMAIL -INFO - Firefox has been closed
+2017-07-21 10:28:17,965 - ATMAIL -INFO - URL Entered
+2017-07-21 10:28:18,597 - ATMAIL -INFO - Clicked on SignIn
+2017-07-21 10:28:53,330 - ATMAIL -INFO - Username entered
+2017-07-21 10:28:53,931 - ATMAIL -INFO - Password entered
+2017-07-21 10:29:02,588 - ATMAIL -INFO - Submit Login
+2017-07-21 10:30:54,695 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(74)
+2017-07-21 10:32:30,201 - ATMAIL -INFO - Inbox Loaded
+2017-07-21 10:32:48,916 - ATMAIL -INFO - No. of Rows in the WebTable: 10
+2017-07-21 13:27:37,774 - ATMAIL -INFO - URL Entered
+2017-07-21 13:27:38,497 - ATMAIL -INFO - Clicked on SignIn
+2017-07-21 13:28:09,562 - ATMAIL -INFO - Username entered
+2017-07-21 13:28:10,221 - ATMAIL -INFO - Password entered
+2017-07-21 13:28:18,852 - ATMAIL -INFO - Submit Login
+2017-07-21 13:28:22,115 - ATMAIL -INFO - return
+2017-07-21 13:28:23,168 - ATMAIL -INFO - Firefox has been closed
+2017-07-21 13:29:40,288 - ATMAIL -INFO - URL Entered
+2017-07-21 13:29:40,893 - ATMAIL -INFO - Clicked on SignIn
+2017-07-21 13:30:11,466 - ATMAIL -INFO - Username entered
+2017-07-21 13:30:12,092 - ATMAIL -INFO - Password entered
+2017-07-21 13:30:20,701 - ATMAIL -INFO - Submit Login
+2017-07-21 13:30:24,033 - ATMAIL -INFO - return
+2017-07-21 13:30:25,054 - ATMAIL -INFO - Firefox has been closed
+2017-07-21 13:35:59,572 - ATMAIL -INFO - URL Entered
+2017-07-21 13:36:00,204 - ATMAIL -INFO - Clicked on SignIn
+2017-07-21 13:36:31,736 - ATMAIL -INFO - Username entered
+2017-07-21 13:36:32,362 - ATMAIL -INFO - Password entered
+2017-07-21 13:36:40,976 - ATMAIL -INFO - Submit Login
+2017-07-21 13:36:44,258 - ATMAIL -INFO - return
+2017-07-21 13:36:45,282 - ATMAIL -INFO - Firefox has been closed
+2017-07-21 13:37:53,459 - ATMAIL -INFO - URL Entered
+2017-07-21 13:37:54,085 - ATMAIL -INFO - Clicked on SignIn
+2017-07-21 13:38:26,376 - ATMAIL -INFO - Username entered
+2017-07-21 13:38:26,968 - ATMAIL -INFO - Password entered
+2017-07-21 13:38:35,628 - ATMAIL -INFO - Submit Login
+2017-07-21 13:38:50,326 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(65)
+2017-07-21 13:39:09,055 - ATMAIL -INFO - Inbox Loaded
+2017-07-21 13:40:20,234 - ATMAIL -INFO - URL Entered
+2017-07-21 13:40:21,288 - ATMAIL -INFO - Clicked on SignIn
+2017-07-21 13:41:00,984 - ATMAIL -INFO - Username entered
+2017-07-21 13:41:01,584 - ATMAIL -INFO - Password entered
+2017-07-21 13:41:10,243 - ATMAIL -INFO - Submit Login
+2017-07-21 13:41:47,798 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(65)
+2017-07-21 13:42:07,029 - ATMAIL -INFO - Inbox Loaded
+2017-07-24 10:36:16,291 - ATMAIL -INFO - URL Entered
+2017-07-24 10:36:17,082 - ATMAIL -INFO - Clicked on SignIn
+2017-07-24 10:37:40,840 - ATMAIL -INFO - Username entered
+2017-07-24 10:37:41,463 - ATMAIL -INFO - Password entered
+2017-07-24 10:37:50,049 - ATMAIL -INFO - return
+2017-07-24 10:37:51,343 - ATMAIL -INFO - Firefox has been closed
+2017-07-24 10:39:48,725 - ATMAIL -INFO - URL Entered
+2017-07-24 10:39:49,365 - ATMAIL -INFO - Clicked on SignIn
+2017-07-24 10:41:11,506 - ATMAIL -INFO - Username entered
+2017-07-24 10:41:12,093 - ATMAIL -INFO - Password entered
+2017-07-24 10:41:20,654 - ATMAIL -INFO - return
+2017-07-24 10:41:21,693 - ATMAIL -INFO - Firefox has been closed
+2017-08-21 12:50:47,980 - ATMAIL -INFO - URL Entered
+2017-08-21 12:50:48,705 - ATMAIL -INFO - return
+2017-08-21 12:50:50,241 - ATMAIL -INFO - Firefox has been closed
+2017-08-21 12:56:18,216 - ATMAIL -INFO - URL Entered
+2017-08-21 12:56:19,633 - ATMAIL -INFO - Clicked on SignIn
+2017-08-21 12:56:53,783 - ATMAIL -INFO - Username entered
+2017-08-21 12:56:54,529 - ATMAIL -INFO - Password entered
+2017-08-21 12:57:03,321 - ATMAIL -INFO - Submit Login
+2017-08-21 12:57:42,135 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(19)
+2017-08-21 12:58:13,794 - ATMAIL -INFO - Inbox Loaded
+2017-08-22 17:35:35,706 - ATMAIL -INFO - URL Entered
+2017-08-22 17:35:35,974 - ATMAIL -INFO - return
+2017-08-22 17:35:37,004 - ATMAIL -INFO - Firefox has been closed
+2017-08-22 18:03:47,868 - ATMAIL -INFO - URL Entered
+2017-08-22 18:03:48,496 - ATMAIL -INFO - Clicked on SignIn
+2017-08-22 18:04:37,550 - ATMAIL -INFO - Username entered
+2017-08-22 18:04:38,021 - ATMAIL -INFO - Password entered
+2017-08-22 18:04:46,566 - ATMAIL -INFO - return
+2017-08-22 18:04:47,628 - ATMAIL -INFO - Firefox has been closed
+2017-08-22 18:06:38,020 - ATMAIL -INFO - URL Entered
+2017-08-22 18:06:38,827 - ATMAIL -INFO - Clicked on SignIn
+2017-08-22 18:07:28,278 - ATMAIL -INFO - Username entered
+2017-08-22 18:07:28,766 - ATMAIL -INFO - Password entered
+2017-08-22 18:07:37,381 - ATMAIL -INFO - Submit Login
+2017-08-22 18:08:15,315 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(24)
+2017-08-22 18:08:49,115 - ATMAIL -INFO - Inbox Loaded
+2017-08-22 18:08:50,721 - ATMAIL -INFO - Firefox has been closed
+2017-08-22 18:44:31,360 - ATMAIL -INFO - URL Entered
+2017-08-22 18:44:33,801 - ATMAIL -INFO - Clicked on SignIn
+2017-08-22 18:45:24,195 - ATMAIL -INFO - Username entered
+2017-08-22 18:45:24,787 - ATMAIL -INFO - Password entered
+2017-08-22 18:45:33,178 - ATMAIL -INFO - Submit Login
+2017-08-22 18:46:03,718 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(6)
+2017-08-22 18:46:23,924 - ATMAIL -INFO - Inbox Loaded
+2017-08-22 18:55:04,455 - ATMAIL -INFO - Unread Mails are available: Test Scenario Passed
+2017-08-22 18:59:48,713 - ATMAIL -INFO - Mails has been read:Test Scenario Pass
+2017-08-22 19:02:28,111 - ATMAIL -INFO - Spam mails has been marked Not As Spam: Test Passed
+2017-08-22 19:10:38,545 - ATMAIL -INFO - URL Entered
+2017-08-22 19:10:38,980 - ATMAIL -INFO - Clicked on SignIn
+2017-08-22 19:11:28,210 - ATMAIL -INFO - Username entered
+2017-08-22 19:11:28,598 - ATMAIL -INFO - Password entered
+2017-08-22 19:11:37,008 - ATMAIL -INFO - Submit Login
+2017-08-22 19:11:56,737 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(6)
+2017-08-22 19:12:15,622 - ATMAIL -INFO - Inbox Loaded
+2017-08-22 19:12:19,487 - ATMAIL -INFO - clicked on Spam Folder
+2017-08-22 19:12:19,551 - ATMAIL -INFO - Checking Spam count
+2017-08-22 19:12:20,631 - ATMAIL -INFO - Firefox has been closed
+2017-08-22 19:16:25,751 - ATMAIL -INFO - URL Entered
+2017-08-22 19:16:26,332 - ATMAIL -INFO - Clicked on SignIn
+2017-08-22 19:17:07,128 - ATMAIL -INFO - Username entered
+2017-08-22 19:17:07,562 - ATMAIL -INFO - Password entered
+2017-08-22 19:17:15,933 - ATMAIL -INFO - Submit Login
+2017-08-22 19:17:35,600 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(6)
+2017-08-22 19:17:53,905 - ATMAIL -INFO - Inbox Loaded
+2017-08-22 19:17:55,451 - ATMAIL -INFO - clicked on Spam Folder
+2017-08-22 19:17:55,529 - ATMAIL -INFO - Checking Spam count
+2017-08-22 19:17:55,621 - ATMAIL -INFO - Selected All Spam Emails
+2017-08-22 19:17:57,042 - ATMAIL -INFO - Firefox has been closed
+2017-08-28 09:39:07,014 - ATMAIL -INFO - URL Entered
+2017-08-28 09:39:07,018 - ATMAIL -INFO - yjqdjls
+2017-08-28 10:16:01,922 - ATMAIL -INFO - URL Entered
+2017-08-28 10:16:02,465 - ATMAIL -INFO - Clicked on SignIn
+2017-08-28 10:16:46,528 - ATMAIL -INFO - Username entered
+2017-08-28 10:16:47,046 - ATMAIL -INFO - Password entered
+2017-08-28 10:16:55,688 - ATMAIL -INFO - Submit Login
+2017-08-28 10:17:17,212 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(188)
+2017-08-28 10:17:39,953 - ATMAIL -INFO - Inbox Loaded
+2017-08-28 10:17:40,568 - ATMAIL -INFO - Click on Contact
+2017-08-28 10:17:41,475 - ATMAIL -INFO - Click on Add Contact
+2017-08-28 10:17:42,284 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:43,045 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:45,961 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:46,948 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:48,033 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:48,763 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:49,526 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:50,196 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:51,038 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:51,469 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:17:51,767 - ATMAIL -INFO - Test Scenario Failed
+2017-08-28 10:17:52,816 - ATMAIL -INFO - Firefox has been closed
+2017-08-28 10:23:40,358 - ATMAIL -INFO - URL Entered
+2017-08-28 10:23:41,400 - ATMAIL -INFO - Clicked on SignIn
+2017-08-28 10:24:26,030 - ATMAIL -INFO - Username entered
+2017-08-28 10:24:26,455 - ATMAIL -INFO - Password entered
+2017-08-28 10:24:34,966 - ATMAIL -INFO - Submit Login
+2017-08-28 10:25:01,632 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(188)
+2017-08-28 10:25:19,084 - ATMAIL -INFO - Inbox Loaded
+2017-08-28 10:25:19,703 - ATMAIL -INFO - Click on Contact
+2017-08-28 10:25:20,400 - ATMAIL -INFO - Click on Add Contact
+2017-08-28 10:25:21,167 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:25:21,961 - ATMAIL -INFO - Enter LastName
+2017-08-28 10:25:23,373 - ATMAIL -INFO - Enter Email
+2017-08-28 10:25:24,333 - ATMAIL -INFO - Enter HomePhone
+2017-08-28 10:25:25,489 - ATMAIL -INFO - Enter Street
+2017-08-28 10:25:26,296 - ATMAIL -INFO - Enter City
+2017-08-28 10:25:26,998 - ATMAIL -INFO - Enter State
+2017-08-28 10:25:27,678 - ATMAIL -INFO - Enter ZipCode
+2017-08-28 10:25:28,454 - ATMAIL -INFO - Enter FirstName
+2017-08-28 10:25:28,890 - ATMAIL -INFO - Click Save
+2017-08-28 10:25:29,202 - ATMAIL -INFO - Test Scenario Failed
+2017-08-28 10:25:30,256 - ATMAIL -INFO - Firefox has been closed
+2017-08-28 10:28:02,870 - ATMAIL -INFO - URL Entered
+2017-08-28 10:28:03,357 - ATMAIL -INFO - Clicked on SignIn
+2017-08-28 10:28:49,407 - ATMAIL -INFO - Username entered
+2017-08-28 10:28:49,870 - ATMAIL -INFO - Password entered
+2017-08-28 10:28:58,613 - ATMAIL -INFO - Submit Login
+2017-08-28 10:29:03,857 - ATMAIL -INFO - return
+2017-08-28 10:29:04,877 - ATMAIL -INFO - Firefox has been closed
+2017-08-29 09:22:56,622 - ATMAIL -INFO - URL Entered
+2017-08-29 09:23:00,801 - ATMAIL -INFO - Clicked on SignIn
+2017-08-29 09:23:50,689 - ATMAIL -INFO - Username entered
+2017-08-29 09:23:51,604 - ATMAIL -INFO - Password entered
+2017-08-29 09:24:00,502 - ATMAIL -INFO - Submit Login
+2017-08-29 09:24:05,761 - ATMAIL -INFO - return
+2017-08-29 09:24:06,788 - ATMAIL -INFO - Firefox has been closed
+2017-08-29 09:26:01,293 - ATMAIL -INFO - URL Entered
+2017-08-29 09:26:01,850 - ATMAIL -INFO - Clicked on SignIn
+2017-08-29 09:26:45,510 - ATMAIL -INFO - Username entered
+2017-08-29 09:26:45,996 - ATMAIL -INFO - Password entered
+2017-08-29 09:26:54,586 - ATMAIL -INFO - Submit Login
+2017-08-29 09:27:09,612 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(72)
+2017-08-29 09:27:26,421 - ATMAIL -INFO - Inbox Loaded
+2017-08-29 09:30:29,956 - ATMAIL -INFO - Click on Contact
+2017-08-29 09:30:33,019 - ATMAIL -INFO - Click on Add Contact
+2017-08-29 09:30:39,907 - ATMAIL -INFO - Enter FirstName
+2017-08-29 09:30:42,323 - ATMAIL -INFO - Enter LastName
+2017-08-29 09:30:51,926 - ATMAIL -INFO - Enter Email
+2017-08-29 09:30:54,547 - ATMAIL -INFO - Enter HomePhone
+2017-08-29 09:30:58,957 - ATMAIL -INFO - Enter Street
+2017-08-29 09:31:01,695 - ATMAIL -INFO - Enter City
+2017-08-29 09:31:03,720 - ATMAIL -INFO - Enter State
+2017-08-29 09:31:05,339 - ATMAIL -INFO - Enter ZipCode
+2017-08-29 09:31:07,355 - ATMAIL -INFO - Enter FirstName
+2017-08-29 09:31:32,829 - ATMAIL -INFO - Click Save
+2017-08-29 09:31:42,458 - ATMAIL -INFO - Your contact has been saved.Test Scenario Failed
+2017-08-29 09:33:02,386 - ATMAIL -INFO - Click on Contact
+2017-08-29 09:33:02,774 - ATMAIL -INFO - Click on Add Contact
+2017-08-29 09:33:03,552 - ATMAIL -INFO - Enter FirstName
+2017-08-29 09:33:04,316 - ATMAIL -INFO - Enter LastName
+2017-08-29 09:33:05,859 - ATMAIL -INFO - Enter Email
+2017-08-29 09:33:06,816 - ATMAIL -INFO - Enter HomePhone
+2017-08-29 09:33:08,002 - ATMAIL -INFO - Enter Street
+2017-08-29 09:33:08,796 - ATMAIL -INFO - Enter City
+2017-08-29 09:33:09,578 - ATMAIL -INFO - Enter State
+2017-08-29 09:33:10,257 - ATMAIL -INFO - Enter ZipCode
+2017-08-29 09:33:11,348 - ATMAIL -INFO - Enter FirstName
+2017-08-29 09:33:11,774 - ATMAIL -INFO - Click Save
+2017-08-29 09:33:12,064 - ATMAIL -INFO - Test Scenario Failed
+2017-08-29 09:33:12,167 - ATMAIL -INFO - Click on Contact
+2017-08-29 09:33:12,253 - ATMAIL -INFO - Click on Add Contact
+2017-08-29 09:33:13,350 - ATMAIL -INFO - Firefox has been closed
+2017-10-10 16:25:18,304 - ATMAIL -INFO - URL Entered
+2017-10-10 16:25:18,734 - ATMAIL -INFO - Clicked on SignIn
+2017-10-10 16:25:49,042 - ATMAIL -INFO - Username entered
+2017-10-10 16:25:49,492 - ATMAIL -INFO - Password entered
+2017-10-10 16:25:57,982 - ATMAIL -INFO - Submit Login
+2017-10-10 16:26:19,473 - ATMAIL -INFO - Atmail Link Available and contains:EMAIL(107)
+2017-10-11 11:04:15,723 - ATMAIL -INFO - URL Entered

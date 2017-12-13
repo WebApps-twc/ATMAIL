@@ -1,0 +1,11 @@
+URL=http://charternet:Chart3rn3t@spectrum.net
+
+ChromeDriver=C:\\Users\\sobhit.kumar.sharma\\Downloads\\Jars & Drivers\\chromedriver.exe
+
+SignIn=.//*[@id='page-header']/div/div/div/div[1]/ul/li[1]/a
+
+username=.//*[@id='cc-username']
+
+password=.//*[@id='cc-user-password']
+
+SubmitSignIn=.//*[@id='login-form-button']
