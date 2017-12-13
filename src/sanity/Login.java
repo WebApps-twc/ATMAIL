@@ -81,11 +81,11 @@ public void user_should_be_able_to_naviagte_to_spectrum_portal() throws Throwabl
 		{
 			log.info("Atmail Link not Available");
 		}
-}
-}
-}
 
 
+}
+
+}
 
 /*@Test
 	public void capture()throws InterruptedException, IOException{
